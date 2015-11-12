@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:TaskDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-7id6tU25cTwD8CE-XIr3Cw" name="6_realizar_analise_e_projeto,_N5QWEHlQEd6Q9KdDavqEGw" guid="-7id6tU25cTwD8CE-XIr3Cw" changeDate="2009-08-02T18:15:10.992-0300">
+  <keyConsiderations>Essa atividade é comum à disciplina de Requisitos das fases de Elaboração e Construção.</keyConsiderations>
+</org.eclipse.epf.uma:TaskDescription>

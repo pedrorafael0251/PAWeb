@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-1ukisYE6PnqDpigHxIjoiA" name="impl_elaboracao,_tZNLQHlPEd6Q9KdDavqEGw" guid="-1ukisYE6PnqDpigHxIjoiA" changeDate="2009-08-02T22:19:54.467-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Inicialmente,&amp;nbsp;é realizado um estudo no documento de &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/especificacao_cdu_B6ECAA04.html&quot; guid=&quot;_bI4FQnpREd6pL8HyHB0u_w&quot;>Especificação de Caso de&#xD;
+    Uso&lt;/a> que será implementado, construído na disciplina de Análise e Projeto. De posse de todas as informações&#xD;
+    necessárias, os testes unitário e funcional são construídos, as classes do componente são implementadas e os testes&#xD;
+    efetuados. Caso erros sejam encontrados após os testes, o componente deve ter sua implementação revisada, para que os&#xD;
+    erros possam ser corrigidos.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>As atividades dessa disciplina demonstram uma preocupação quanto aos testes, obrigando&#xD;
+    o&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/roles/implementador_testador_33627EFA.html&quot;&#xD;
+    guid=&quot;_3b8ZEH7BEd6MaYaawFYtMQ&quot;>Implementador e Testador&lt;/a> a planejar os testes antes de realizar a implementação,&#xD;
+    garantindo assim que tudo que for desenvolvido deverá ser testado.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Ao fim desta disciplina, a equipe pode gozar de uma liberdade tal que permita aos&#xD;
+    trabalhadores a avaliação de alternativas tecnológicas, podendo-se assim adotar novas tecnologias, agregando valor ao&#xD;
+    sistema.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

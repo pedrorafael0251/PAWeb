@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-IoPBx4uf6-CqdP8YihEvAA" name="impl_construcao,_NwuLgHlYEd6Q9KdDavqEGw" guid="-IoPBx4uf6-CqdP8YihEvAA" changeDate="2014-11-08T22:09:28.259-0200">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A codificação ocorre da mesma maneira que na fase anterior.&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>Caso erros&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>sejam encontrados após testes, o&#xD;
+    componente&amp;nbsp;é implementado novamente, para que os erros&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>possam ser&#xD;
+    corrigidos. A iteração acaba quando todos os componentes para o caso de uso forem&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>integrados ao sistema. Em cada iteração dentro da fase, será implementado um caso de&#xD;
+    uso.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

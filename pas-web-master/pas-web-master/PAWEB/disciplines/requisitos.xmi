@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-k2eOejV3qPQBgUk08-MfCg" name="requisitos,_UnXmIHlLEd6Q9KdDavqEGw" guid="-k2eOejV3qPQBgUk08-MfCg" changeDate="2009-08-02T20:29:39.990-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A definição do projeto ocorre através de uma entrevista com o cliente, onde o mesmo&#xD;
+    expõe&lt;/font>&amp;nbsp;&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>o problema que deseja solucionar.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Se o problema for entendido pela equipe de desenvolvimento,&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>passa-se para a definiço do escopo, senão entrevista-se novamente o cliente, até que se&#xD;
+    tenha&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>entendimento do problema.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Com o problema entendido, o seu escopo&amp;nbsp;é definido.&#xD;
+    Esse escopo define o trabalho necess&lt;/font>&lt;/font>á&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>rio&#xD;
+    para concluir o projeto, servindo como um guia (ou ponto de referência) para determinar&lt;/font>&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>que trabalho não está incluído (ou não&amp;nbsp;é necessário) no&#xD;
+    projeto. Ou seja, após sua definição,&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>sabe-se o que está dentro e o que está fora do projeto, de maneira clara e sem&#xD;
+    ambiguidades&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Tendo definido o escopo, passa-se a definir as funções&#xD;
+    (requisitos funcionais) e as restrições&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>(requisitos não-funcionais).&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>De posse de tais requisitos, divide-se o problema em&#xD;
+    casos de uso.&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Esta atividade&#xD;
+    co-relaciona-se com a atividade de análise e projeto onde&amp;nbsp;á construído o modelo&lt;/font>&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>de casos de uso.&amp;nbsp;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Por fim, classificam-se&#xD;
+    os casos de uso por módulos do sistema ou por prioridade do cliente,&lt;/font>&lt;/font>&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>e ao final, descreve-se&#xD;
+    brevemente os casos de uso e os atores participantes do sistema.&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  <keyConsiderations>É importante lembrar que o PAS é um processo&amp;nbsp;é iterativo e as disciplinas ocorrem em &lt;font&#xD;
+face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>paralelo dentro de uma fase.&lt;/font>&lt;/font></keyConsiderations>
+</org.eclipse.epf.uma:ContentDescription>

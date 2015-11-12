@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-QeEzpD5UtrZH8CXe5l6KVg" name="disciplinas_validacao,_fjvkYHlcEd6Q9KdDavqEGw" guid="-QeEzpD5UtrZH8CXe5l6KVg" changeDate="2009-08-02T23:11:53.002-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Nesse momento do ciclo de vida, o&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-ReguItal&quot;>feedback&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>do usuário deve priorizar o ajuste fino&#xD;
+    do produto, a configuração, a instalação e os&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>problemas de usabilidade; todos os&#xD;
+    problemas estruturais mais graves devem ter sido trabalhados&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>antes no ciclo de&#xD;
+    vida do projeto.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>No entanto, modificações podem acontecer quando o cliente for realizar o “teste” da&#xD;
+    aplicação.&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Essas modificações incluem desde pequenos ajustes na interface, até a&#xD;
+    inclusão de novas caracter&lt;/font>í&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>sticas, o que gera o surgimento de novos requisitos e&#xD;
+    consequentemente novos casos de uso.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Caso ocorram mudanças a nível de requisitos e casos de uso, será realizada uma nova&#xD;
+    iteração&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>para cada novo caso de uso, com basicamente as mesmas atividades da&#xD;
+    fase de construção. Isso&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>não significa que a fase de construção irá acontecer&#xD;
+    novamente, apenas as atividades executadas&amp;nbsp;é&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>que serão as mesmas.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>No fim do ciclo de vida da fase, os objetivos devem ter&#xD;
+    sido atendidos e o projeto deve estar&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>em&#xD;
+    uma posição de fechamento. Em alguns casos, o fim do ciclo de vida atual pode coincidir&lt;/font>&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>com o início de outro ciclo de vida no mesmo produto,&#xD;
+    conduzindo&amp;nbsp;à nova geração ou versão&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>do produto. Para outros projetos, o fim da validação pode coincidir com uma liberação total&#xD;
+    dos&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>artefatos a terceiros, que poderão&#xD;
+    ser responsáveis pela operação, manutenção e melhorias no&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>sistema.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Ao final da fase, os&#xD;
+    seguintes objetivos devem ser atingidos:&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>Entregar e instalar o produto gerado no cliente;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Corrigir defeitos e modificar o sistema para corrigir&#xD;
+        problemas não identificados previamente.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Esses objetivos são cumpridos&#xD;
+    através da geração do Produto.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

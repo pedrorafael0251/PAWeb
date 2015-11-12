@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-SHMdTnkdNHMWEgoHCo-uYw" name="designer,_9f0nEH7BEd6MaYaawFYtMQ" guid="-SHMdTnkdNHMWEgoHCo-uYw" changeDate="2009-08-02T00:32:27.201-0300">
+  <mainDescription>&lt;p>&#xD;
+    O Designer lidera e coordena a construção do protótipo e o design da interface do usuário da seguinte forma:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Capturando os requisitos da interface do usuário, incluindo requisitos de usabilidade&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Construindo protótipos de interface do usuário&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Incluindo outros envolvidos da interface de usuário, como usuários, nas revisões de usabilidade e nas sessões de&#xD;
+        teste de uso&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Revisando e fornecendo o feedback apropriado sobre a implementação final da interface do usuário, se criada por&#xD;
+        outros desenvolvedores, ou seja, projetistas e implementadores.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&lt;br /></mainDescription>
+  <keyConsiderations>O Designer não implementa a interface do usuário. Esse papel apenas se concentra no design e na &quot;formatação visual&quot; da&#xD;
+interface.</keyConsiderations>
+  <skills>As habilidades exigidas para o Designer devem ser aprimoradas e otimizadas para o projeto e tipo de aplicativo em questão,&#xD;
+com requisitos de usabilidade praticamente exclusivos. O Designer deve ser influenciado mais por considerações de&#xD;
+usabilidade do que por considerações de implementação.</skills>
+</org.eclipse.epf.uma:RoleDescription>

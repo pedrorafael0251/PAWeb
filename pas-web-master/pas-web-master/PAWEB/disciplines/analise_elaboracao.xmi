@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mMTpn0z-TlZaBs2s2wW-5A" name="analise_elaboração,_qi0M8HlPEd6Q9KdDavqEGw" guid="-mMTpn0z-TlZaBs2s2wW-5A" changeDate="2009-08-02T22:04:49.476-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A primeira atividade a ser realizada nesta disciplina&amp;nbsp;é a revisão do &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_visao_F3AF5E8B.html&quot; guid=&quot;_KH53lnpREd6pL8HyHB0u_w&quot;>Documento de&#xD;
+    Visão&lt;/a>, &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_arq_97F75231.html&quot;&#xD;
+    guid=&quot;_KH53k3pREd6pL8HyHB0u_w&quot;>Documento de Arquitetura do Sistema&lt;/a> e documentos de &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/especificacao_cdu_B6ECAA04.html&quot; guid=&quot;_bI4FQnpREd6pL8HyHB0u_w&quot;>Especificação de Caso de&#xD;
+    Uso&lt;/a>, possibilitando assim, uma escolha mais adequada do caso de uso a ser utilizado na validação da arquitetura. Em&#xD;
+    seguida,&amp;nbsp;é identificado o caso de uso que melhor se adeque as especificações da arquitetura.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Se nenhum dos casos de uso detalhados na disciplina de&#xD;
+    Requisitos atender às especificações da arquitetura, deve-se realizar novamente a disciplina de requisitos, detalhando&#xD;
+    assim outros casos de uso que possam atender a tais especificações.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Quando o caso de uso for identificado, o mesmo será&#xD;
+    analisado, buscando identificar conceitos e operações. Em seguida, elabora-se o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/diagrama_interacao_BDB5B5DE.html&quot; guid=&quot;_bI4FQHpREd6pL8HyHB0u_w&quot;>Diagrama de Interação&#xD;
+    de Objetos (UML) para o (s) Caso (s) de Uso (s) Implementado (s)&lt;/a> (Diagrama de Sequência) e o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/diagrama_de_classes_9DB6D23A.html&quot; guid=&quot;_bIu7UXpREd6pL8HyHB0u_w&quot;>Diagrama de Classes de&#xD;
+    Projeto (UML)&lt;/a>. Por fim, a disciplina de implementação e teste&amp;nbsp;é inciada.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Se ao final da implementação e teste, a arquitetura não&#xD;
+    for validada, a mesma deve ser ajustada e a disciplina de implementação e teste executada novamente. Caso seja&#xD;
+    totalmente inválida, a arquitetura deve ser redefinida, e a disciplina análise e projeto deve ser ativada&#xD;
+    novamente.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A arquitetura estando válida, o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/doc_arq_97F75231.html&quot; guid=&quot;_KH53k3pREd6pL8HyHB0u_w&quot;>Documento de Arquitetura do&#xD;
+    Sistema&lt;/a> deve ser atualizado, caso exista alguma mudança.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

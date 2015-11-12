@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="--6pTkJRKR2jWjlSWNgMmDA" name="analista,_1hmzUH7BEd6MaYaawFYtMQ" guid="--6pTkJRKR2jWjlSWNgMmDA" changeDate="2009-08-01T20:07:02.846-0300">
+  <skills>&lt;p>&#xD;
+    &lt;span&#xD;
+    style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Calibri','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+     face=&quot;Arial&quot; size=&quot;2&quot;>Um Analista precisa&amp;nbsp;possuir os seguintes conhecimentos e habilidades:&lt;/font>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Calibri','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+         size=&quot;2&quot;>Perícia em identificar e conhecer problemas e oportunidades&lt;/font>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Calibri','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+         size=&quot;2&quot;>Habilidade em articular as necessidades associadas aos principais problemas a serem&#xD;
+        solucionados&lt;/font>&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Calibri','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+         size=&quot;2&quot;>Habilidade para colaborar de forma eficaz com a equipe em sessões de trabalho colaborativo, workshops e&#xD;
+        outras técnicas de trabalho&lt;/font>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Calibri','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+         size=&quot;2&quot;>Boa habilidade de comunicação verbal ou escrita&lt;/font>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;span&#xD;
+        style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Calibri','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ascii-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;span&#xD;
+         style=&quot;FONT-SIZE: 12pt; LINE-HEIGHT: 115%; FONT-FAMILY: 'Arial','sans-serif'; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-fareast-language: EN-US; mso-ansi-language: PT-BR; mso-bidi-language: AR-SA&quot;>&lt;font&#xD;
+         size=&quot;2&quot;>Conhecimento acerca dos domínios do negócio e da tecnologia utilizada ou habilidade de absorver e&#xD;
+        compreender de forma rápida tais informações&lt;/font>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&lt;/span>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&lt;br />&#xD;
+&lt;br /></skills>
+</org.eclipse.epf.uma:RoleDescription>

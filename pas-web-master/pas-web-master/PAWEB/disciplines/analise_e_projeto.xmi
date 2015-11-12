@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-DUHpvFRISiScnIIKA7aZ6Q" name="analise_e_projeto,_XK-yYHlLEd6Q9KdDavqEGw" guid="-DUHpvFRISiScnIIKA7aZ6Q" changeDate="2009-08-02T20:38:11.999-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Na disciplina de Requisitos, o cliente foi ouvido, seus desejos com relação ao software&#xD;
+    foram transformados em requisitos e esses em casos de uso, conhecendo-se, assim, as possíveis funcionalidades do&#xD;
+    sistema. Em seguida, entra-se na dsiciplina de análise e projeto.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>As atividades de análise, tanto do ambiente físico e&#xD;
+    computacional, como das restrições citadas pelo cliente, são executadas em paralelo. Elas servem para avaliar sobre que&#xD;
+    escopo deve ser pensada a arquitetura do sistema. Para que tais atividades ocorram, são necessários os insumos gerados&#xD;
+    pela disciplina de requisitos, ou seja, as definições captadas na entrevista com cliente (escopo e&#xD;
+    requisitos).&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Concluídas as atividades acima,&amp;nbsp;é feita uma&#xD;
+    análise do modelo de casos de uso. Tal atividade tem por objetivo verificar alguma possível incompatibilidade entre o&#xD;
+    modelo de casos de uso e as necessidade do cliente. Caso alguma&amp;nbsp; incompatibilidade seja encontrada, ajusta-se o&#xD;
+    modelo de casos de uso.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Com o modelo de casos&#xD;
+    de uso refletindo as reais necessidade do cliente,&amp;nbsp;é feita uma reunião &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>entre&#xD;
+    equipe de desenvolvimento e cliente, com a finalidade de avaliar a Arquitetura Candidata. Caso cliente e equipe estejam&#xD;
+    de acordo, elabora-se o documento com a arquitetura candidata. Caso contrário,&amp;nbsp;é realizada uma nova análise do&#xD;
+    modelo de casos de uso, ajustando-se o que for necessário, sendo apresentado a arquitetura em uma nova reunião. Tais&#xD;
+    atividades se repetem até que cliente e equipe de desenvolvimento entrem em acordo.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

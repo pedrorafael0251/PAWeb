@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-eRy8gq6Re892Px71w-Yr5A" name="stakeholders,_OlqUAXmbEd6IMtncZulwRw" guid="-eRy8gq6Re892Px71w-Yr5A" changeDate="2009-08-01T23:41:48.817-0300" version="1.0">
+  <mainDescription>&lt;p>&#xD;
+    Resolver um problema complexo de forma eficiente significa atender às necessidades de um grupo distinto de envolvidos,&#xD;
+    com perspectivas distintas sobre o problema e as diferentes necessidades que devem ser atendidas pela solução. Esses&#xD;
+    envolvidos podem ser usuários do sistema, usuários indiretos do sistema, pessoas afetadas pelos resultados dos negócios&#xD;
+    influenciados pelo sistema ou mesmo compradores econômicos ou defensores do sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Para desenvolver uma solução eficaz, é importante conhecer bem quem são os envolvidos no sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    São alguns exemplos de envolvidos:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Cliente ou representante do Cliente&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Usuário ou representante do Usuário&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Investidor&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Acionista&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Gerente de Produção&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Comprador&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Designer&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Testador&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Escritor da Documentação&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&lt;br /></mainDescription>
+</org.eclipse.epf.uma:RoleDescription>

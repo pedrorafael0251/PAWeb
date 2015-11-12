@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-mZBMGL6XyZy5RZsy8F7Ncg" name="lider,_OlqUAnmbEd6IMtncZulwRw" guid="-mZBMGL6XyZy5RZsy8F7Ncg" changeDate="2014-11-04T00:22:56.077-0200" version="1.0">
+  <skills>&lt;p>&#xD;
+    O indivíduo que desempenha esse papel deve:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ter experiência no domínio do aplicativo e no desenvolvimento de software&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ter habilidades de análise e gerenciamento de riscos, estimativa, planejamento e análise de decisões&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ter habilidades de apresentação, comunicação e negociação&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Mostrar capacidade de liderança e de desenvolver o espírito de equipe&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ter boa capacidade de gerenciamento de tempo e triagem e um históric de decisões acertadas, tomadas rapidamente em&#xD;
+        situações de stress&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ter boas habilidades de relacionamento interpessoal e mostrar opinião sensata na seleção de pessoal&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Ser objetivo na definição e avaliação do trabalho, assegurando a participação de toda a equipe&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Compartilhar a visão de arquitetura, mas ser pragmático no escopo e na implementação de planos e completamente&#xD;
+        honesto na avaliação dos resultados&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&lt;br /></skills>
+  <assignmentApproaches>Esse papel é, normalmente, desempenhado por uma única pessoa, pois é difícil de dividir as responsabilidades da gerência&#xD;
+entre duas ou mais pessoas.</assignmentApproaches>
+</org.eclipse.epf.uma:RoleDescription>

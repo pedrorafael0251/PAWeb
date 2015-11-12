@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-YSoJ_pXJccDw7Vzx5H-81Q" name="analise_construcao,_J59VUHlYEd6Q9KdDavqEGw" guid="-YSoJ_pXJccDw7Vzx5H-81Q" changeDate="2009-08-02T22:53:42.722-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>As atividades consitem basicamente em analisar o caso de uso, identificando conceitos,&#xD;
+    operações e componentes; atividades que podem acontecer em paralelo.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Em seguida o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/diagrama_interacao_BDB5B5DE.html&quot; guid=&quot;_bI4FQHpREd6pL8HyHB0u_w&quot;>Diagrama de Interação&#xD;
+    de Objetos (UML) para o (s) Caso (s) de Uso (s) Implementado (s)&lt;/a>&amp;nbsp;é construído e o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/diagrama_de_classes_9DB6D23A.html&quot; guid=&quot;_bIu7UXpREd6pL8HyHB0u_w&quot;>Diagrama de Classes de&#xD;
+    Projeto (UML)&lt;/a> atualizado.&amp;nbsp;É importante salientar que&amp;nbsp;é nessa disciplina que os componentes são&#xD;
+    identificados. Eles serão a base para a implementação, que ocorrerá orientada a componentes.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

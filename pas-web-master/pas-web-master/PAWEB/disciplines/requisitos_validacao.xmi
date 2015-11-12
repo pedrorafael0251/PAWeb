@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-3X5FX4zf9hbRTSm9o4bTXA" name="requisitos_validacao,_itp7oHlcEd6Q9KdDavqEGw" guid="-3X5FX4zf9hbRTSm9o4bTXA" changeDate="2009-08-02T23:21:23.041-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>O&amp;nbsp; fluxo de atividades dessa disciplina na fase de&#xD;
+    Validação&amp;nbsp;possui&lt;/font>&amp;nbsp;&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>apenas duas atividades. Uma responsável por verificar&#xD;
+    o surgimento de novas funcionalidades&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>e, em caso positivo, outra para chamar as&#xD;
+    atividades da mesma disciplina da fase anterior.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

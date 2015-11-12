@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-bPsOvW29SLgviB-OnXONVg" name="new_toolmentor,_huuBYJJ6Ed66foGdT4dnPg" guid="-bPsOvW29SLgviB-OnXONVg" changeDate="2009-08-26T16:57:49.019-0300">
+  <mainDescription>&lt;p>&#xD;
+    Para visualizar a &lt;span&#xD;
+    style=&quot;LINE-HEIGHT: 115%; FONT-FAMILY: 'Calibri','sans-serif'; FONT-SIZE: 11pt; mso-ascii-theme-font: minor-latin; mso-fareast-font-family: Calibri; mso-fareast-theme-font: minor-latin; mso-hansi-theme-font: minor-latin; mso-bidi-font-family: 'Times New Roman'; mso-bidi-theme-font: minor-bidi; mso-ansi-language: PT-BR; mso-fareast-language: EN-US; mso-bidi-language: AR-SA&quot;>WBS&#xD;
+    criada pelo MS Project ao importar o arquivo XML exportado pelo EPF &lt;em>Composer,&lt;/em> acesse o link&#xD;
+    abaixo&lt;em>.&lt;/em>&lt;/span>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;a href=&quot;./resources/PAS-MSP.mpp&quot; target=&quot;_blank&quot;>PAS-MSP.mpp&lt;/a>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

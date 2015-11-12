@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-kQjVcOA9xmcW0BffwUbZcg" name="requisitos_elaboracao,_m8veIHlPEd6Q9KdDavqEGw" guid="-kQjVcOA9xmcW0BffwUbZcg" changeDate="2009-08-02T21:53:17.925-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Antes de inciar o detalhamento, são escolhidos os casos de uso que poderão ser&#xD;
+    desenvolvidos&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>para validar a arquiterura. Tal escolha&amp;nbsp;é feita levando-se em&#xD;
+    consideração a complexidade&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>e a abragência do mesmo em relação&amp;nbsp;à&#xD;
+    arquitetura. Mais de uma caso de uso&amp;nbsp;é escolhido, pois&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>o detalhamento&#xD;
+    desses&amp;nbsp;casos de uso&amp;nbsp;é quem vai definir qual deles&amp;nbsp;é o mais adequado para realizar a&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>validação da arquitetura.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Após escolhidos os casos de uso,&amp;nbsp;é realizado o detalhamento inicial dos mesmos.&#xD;
+    Será&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>confeccionado o Documento de &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/especificacao_cdu_B6ECAA04.html&quot; guid=&quot;_bI4FQnpREd6pL8HyHB0u_w&quot;>Especificação de Caso de&#xD;
+    Uso&lt;/a>, que conterá as informações&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>necessárias para que a próxima disciplina,&#xD;
+    Análise e Projeto, possa ser realizada com sucesso.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Caso venham a surgir dúvidas, inseguranças ou inconsistências no detalhamento, o&#xD;
+    cliente&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>será entrevistado ou consultado por algum meio de comunicação. Após&#xD;
+    sanar a dúvida, realiza-se&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>novamente a primeira atividade, ajustando o que for&#xD;
+    necessário.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Após detalhar o caso de uso,&amp;nbsp;é feita uma revisão nos requisitos, o que pode&#xD;
+    ocasionar o&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>surgimento de um novo caso de uso, implicando em uma revisão no &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/diagrama_geral_cdus_40846856.html&quot;&#xD;
+    guid=&quot;_KH53kXpREd6pL8HyHB0u_w&quot;>Diagrama Geral de Casos de Uso (UML)&lt;/a>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>e também&#xD;
+    no &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_visao_F3AF5E8B.html&quot;&#xD;
+    guid=&quot;_KH53lnpREd6pL8HyHB0u_w&quot;>Documento de Visão&lt;/a>. Concluídas todas as atividades, inicia-se a disciplina de&#xD;
+    Análise e Projeto.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

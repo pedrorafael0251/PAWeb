@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:RoleDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-wHfxUpGDRz2I5t2gdpBwCA" name="implementador_,_3b8ZEH7BEd6MaYaawFYtMQ" guid="-wHfxUpGDRz2I5t2gdpBwCA" changeDate="2009-08-02T00:05:52.791-0300">
+  <skills>&lt;p>&#xD;
+    As habilidades e conhecimentos apropriados para o implementador incluem:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Conhecimento do sistema no qual está trabalhando&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Habilidades de programação&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Conhecimento da linguagem de programação utilizada&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Familiaridade com as ferramentas de programação e de testes&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></skills>
+</org.eclipse.epf.uma:RoleDescription>

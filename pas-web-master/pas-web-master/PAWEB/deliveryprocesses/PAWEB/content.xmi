@@ -1,0 +1,936 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-f4fArVL9nU7rTFsM_CaP2Q" name="Requisitos Concepção,_b8XAUX_mEd61Af7ua88vmw" guid="-f4fArVL9nU7rTFsM_CaP2Q">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A definição do projeto ocorre através de uma entrevista com o cliente, onde o mesmo&#xD;
+    expõe&lt;/font>&amp;nbsp;&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>o problema que deseja solucionar.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Se o problema for entendido pela equipe de desenvolvimento,&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>passa-se para a definiço do escopo, senão entrevista-se novamente o cliente, até que se&#xD;
+    tenha&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>entendimento do problema.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Com o problema entendido, o seu escopo&amp;nbsp;é definido.&#xD;
+    Esse escopo define o trabalho necess&lt;/font>&lt;/font>á&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>rio&#xD;
+    para concluir o projeto, servindo como um guia (ou ponto de referência) para determinar&lt;/font>&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>que trabalho não está incluído (ou não&amp;nbsp;é necessário) no&#xD;
+    projeto. Ou seja, após sua definição,&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>sabe-se o que está dentro e o que está fora do projeto, de maneira clara e sem&#xD;
+    ambiguidades&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Tendo definido o escopo, passa-se a definir as funções&#xD;
+    (requisitos funcionais) e as restrições&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>(requisitos não-funcionais).&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>De posse de tais requisitos, divide-se o problema em&#xD;
+    casos de uso.&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Esta atividade&#xD;
+    co-relaciona-se com a atividade de análise e projeto onde&amp;nbsp;á construído o modelo&lt;/font>&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>de casos de uso.&amp;nbsp;&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Por fim, classificam-se&#xD;
+    os casos de uso por módulos do sistema ou por prioridade do cliente,&lt;/font>&lt;/font>&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>e ao final, descreve-se&#xD;
+    brevemente os casos de uso e os atores participantes do sistema.&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+    <keyConsiderations>É importante lembrar que o PAS é um processo&amp;nbsp;é iterativo e as disciplinas ocorrem em &lt;font&#xD;
+face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>paralelo dentro de uma fase.&lt;/font>&lt;/font></keyConsiderations>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-CjcEtx8TWb-YsPi6t2QK8w" name="stakeholders,_EBlz1n_nEd61Af7ua88vmw" guid="-CjcEtx8TWb-YsPi6t2QK8w">
+    <refinedDescription>&lt;p>&#xD;
+    Resolver um problema complexo de forma eficiente significa atender às necessidades de um grupo distinto de envolvidos,&#xD;
+    com perspectivas distintas sobre o problema e as diferentes necessidades que devem ser atendidas pela solução. Esses&#xD;
+    envolvidos podem ser usuários do sistema, usuários indiretos do sistema, pessoas afetadas pelos resultados dos negócios&#xD;
+    influenciados pelo sistema ou mesmo compradores econômicos ou defensores do sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    Para desenvolver uma solução eficaz, é importante conhecer bem quem são os envolvidos no sistema.&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    São alguns exemplos de envolvidos:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Cliente ou representante do Cliente&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Usuário ou representante do Usuário&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Investidor&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Acionista&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Gerente de Produção&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Comprador&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Designer&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Testador&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Escritor da Documentação&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-7EVz_X7iRNL__hjHOVMjtQ" name="Análise e Projeto Concepção,_dVxDQX_mEd61Af7ua88vmw" guid="-7EVz_X7iRNL__hjHOVMjtQ">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Na disciplina de Requisitos, o cliente foi ouvido, seus desejos com relação ao software&#xD;
+    foram transformados em requisitos e esses em casos de uso, conhecendo-se, assim, as possíveis funcionalidades do&#xD;
+    sistema. Em seguida, entra-se na dsiciplina de análise e projeto.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>As atividades de análise, tanto do ambiente físico e&#xD;
+    computacional, como das restrições citadas pelo cliente, são executadas em paralelo. Elas servem para avaliar sobre que&#xD;
+    escopo deve ser pensada a arquitetura do sistema. Para que tais atividades ocorram, são necessários os insumos gerados&#xD;
+    pela disciplina de requisitos, ou seja, as definições captadas na entrevista com cliente (escopo e&#xD;
+    requisitos).&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Concluídas as atividades acima,&amp;nbsp;é feita uma&#xD;
+    análise do modelo de casos de uso. Tal atividade tem por objetivo verificar alguma possível incompatibilidade entre o&#xD;
+    modelo de casos de uso e as necessidade do cliente. Caso alguma&amp;nbsp; incompatibilidade seja encontrada, ajusta-se o&#xD;
+    modelo de casos de uso.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Com o modelo de casos&#xD;
+    de uso refletindo as reais necessidade do cliente,&amp;nbsp;é feita uma reunião &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>entre&#xD;
+    equipe de desenvolvimento e cliente, com a finalidade de avaliar a Arquitetura Candidata. Caso cliente e equipe estejam&#xD;
+    de acordo, elabora-se o documento com a arquitetura candidata. Caso contrário,&amp;nbsp;é realizada uma nova análise do&#xD;
+    modelo de casos de uso, ajustando-se o que for necessário, sendo apresentado a arquitetura em uma nova reunião. Tais&#xD;
+    atividades se repetem até que cliente e equipe de desenvolvimento entrem em acordo.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-GST0GvsxIFnfIma3QuxJIw" name="Implementação e Testes Concepção,_lnzK4X_mEd61Af7ua88vmw" guid="-GST0GvsxIFnfIma3QuxJIw">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Caso sistema a ser desenvolvido derive&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>de um&#xD;
+    sistema legado, as telas do mesmo são capturadas e adaptadas ao novo sistema. Caso&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>contrário,&amp;nbsp;é confeccionado um protótipo contendo as principais telas do novo&#xD;
+    sistema.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-8XhNrv_ZeqmMUHCoP57_3g" name="designer,_If81g3_nEd61Af7ua88vmw" guid="-8XhNrv_ZeqmMUHCoP57_3g">
+    <keyConsiderations>O Designer não implementa a interface do usuário. Esse papel apenas se concentra no design e na &quot;formatação visual&quot; da&#xD;
+interface.</keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    O Designer lidera e coordena a construção do protótipo e o design da interface do usuário da seguinte forma:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Capturando os requisitos da interface do usuário, incluindo requisitos de usabilidade&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Construindo protótipos de interface do usuário&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Incluindo outros envolvidos da interface de usuário, como usuários, nas revisões de usabilidade e nas sessões de&#xD;
+        teste de uso&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Revisando e fornecendo o feedback apropriado sobre a implementação final da interface do usuário, se criada por&#xD;
+        outros desenvolvedores, ou seja, projetistas e implementadores.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-FK5ti_FPgIk-WRgBdNpTUQ" name="Gerência de Processo Concepção,_nrh9MX_mEd61Af7ua88vmw" guid="-FK5ti_FPgIk-WRgBdNpTUQ">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    As atividades na disciplina de Gerência de Processo para a fase de Concepção para os três focos (Ambiente, Cliente e&#xD;
+    Projeto) se aplica da seguinte forma:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Ambiente:&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        Especificar, junto com a equipe, as ferramentas que serão utilizadas afim de encontrar a compatibilidade. Para&#xD;
+        isso, as habilidades de cada um devem ser levadas em consideração para que se utilizem os softwares mais adequados.&#xD;
+        Uma ferramenta só é boa, se você souber utilizar. Quando especificadas, devem ser instaladas e esse processo deve&#xD;
+        ser documentado, para que outras pessoas que não participaram dessas escolhas possam entendê-las.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Cliente&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        Reunir-se com o cliente para capturar tudo que ele pode informar, a relação cliente e equipe deve ser estreita. O&#xD;
+        sistema será entendido à medida que as informações do cliente forem sendo disponibilizadas. Para que seja extraído&#xD;
+        o máximo das reuniões, existirá um trabalhador responsável por documentar os acontecimentos da reunião em Ata. Ao&#xD;
+        fim da iteração, deve ser desenvolvido o&lt;i>Documento de Feedback&lt;/i> (Onde a equipe apresenta o que foi feito e o&#xD;
+        cliente demonstra sua (in)satisfação, oficializando as entregas).&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Projeto&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        O que será realizado durante o tempo será escrito nos planos (ver artefatos abaixo). Planejar é estabelecer metas&#xD;
+        num intervalo de tempo (BECK, 2000). Dado o entendimento do Documento de Visão, o Gerente é capaz de escrever o&#xD;
+        &lt;i>macro&lt;/i>-planejamento no Plano de Desenvolvimento de Software(PDS). Neste documento ele relaciona informações&#xD;
+        importantes como: riscos, escopo, cronograma geral, distribui papéis, registra contatos, estabelece formas de&#xD;
+        comunicação, entre outros. O Plano de Iteração e Integração(Pi&amp;amp;i) cria um&lt;i>micro&lt;/i>-planejamento composto de&#xD;
+        menos informação que o PDS pensado durante uma iteração apenas. Ou seja, toda iteração deve ser planejada e&#xD;
+        documentada no Pi&amp;amp;i. Ambos os documentos devem estar bem escritos para que todos possam lê-los e entendê-los.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-w0dwW4vP7SPg04587EjRlA" name="15_desenvolver_plan_iteracao,_LsMvHn_nEd61Af7ua88vmw" guid="-w0dwW4vP7SPg04587EjRlA">
+    <keyConsiderations>Essa atividade é comum à disciplina de Liderençca de Processo de todas as fases do Processo.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-xxeb8Nk_MfXImFmUoSpJbQ" name="gerente,_LsMvH3_nEd61Af7ua88vmw" guid="-xxeb8Nk_MfXImFmUoSpJbQ"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-yTthkNmcS3PLnwH8q9KObA" name="Concepção,_Ecp0oX_mEd62TNYWta-H0w" guid="-yTthkNmcS3PLnwH8q9KObA">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A fase de Concepção&amp;nbsp;é dada por terminada não necessariamente tendo passado o tempo&#xD;
+    estipulado para a&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>mesma, mas tendo o cliente e&#xD;
+    projetistas concordado acerca do que&amp;nbsp;é o sistema. No entanto,&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>deve-se tomar muito cuidado com a duração desta fase, pois o prolongamento exacerbado ou&#xD;
+    a&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>redução de sua duração poderá&#xD;
+    prejudicar as demais fases do projeto.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Ao final da fase, os seguintes objetivos devem ser&#xD;
+    atingidos:&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Delimitação do&#xD;
+            sistema: definir seu escopo, seus principais requisitos, desejos do cliente&lt;/font>&lt;/font>&lt;/font> &lt;font&#xD;
+            face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>e&#xD;
+            prazos;&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+            face=&quot;NimbusRomNo9L-Regu&quot;>Definição da arquitetura candidata;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+            face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Definição do protótipo das principais telas do&#xD;
+            sistema, baseadas nos principais casos de&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font> &lt;font&#xD;
+            face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+            face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>uso.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Esses objetivos são cumpridos através da geração dos seguintes artefatos:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_visao_F3AF5E8B.html&quot;&#xD;
+            guid=&quot;_KH53lnpREd6pL8HyHB0u_w&quot;>Documento de Visão&lt;/a>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_arq_97F75231.html&quot;&#xD;
+            guid=&quot;_KH53k3pREd6pL8HyHB0u_w&quot;>Documento de Arquitetura do Sistema&lt;/a>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+            face=&quot;NimbusRomNo9L-Regu&quot;>&lt;a class=&quot;elementLink&quot;&#xD;
+            href=&quot;./../../pas/workproducts/prototipo_de_telas_C9A82C94.html&quot; guid=&quot;_KH53mXpREd6pL8HyHB0u_w&quot;>Protótipos de&#xD;
+            Telas&lt;/a>&amp;nbsp;do sistema.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-8Qma60ZWIsDt-pzwJme9Nw" name="Requisitos Elaboração,_qmPa0X_mEd61Af7ua88vmw" guid="-8Qma60ZWIsDt-pzwJme9Nw">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Antes de inciar o detalhamento, são escolhidos os casos de uso que poderão ser&#xD;
+    desenvolvidos&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>para validar a arquiterura. Tal escolha&amp;nbsp;é feita levando-se em&#xD;
+    consideração a complexidade&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>e a abragência do mesmo em relação&amp;nbsp;à&#xD;
+    arquitetura. Mais de uma caso de uso&amp;nbsp;é escolhido, pois&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>o detalhamento&#xD;
+    desses&amp;nbsp;casos de uso&amp;nbsp;é quem vai definir qual deles&amp;nbsp;é o mais adequado para realizar a&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>validação da arquitetura.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Após escolhidos os casos de uso,&amp;nbsp;é realizado o detalhamento inicial dos mesmos.&#xD;
+    Será&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>confeccionado o Documento de &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/especificacao_cdu_B6ECAA04.html&quot; guid=&quot;_bI4FQnpREd6pL8HyHB0u_w&quot;>Especificação de Caso de&#xD;
+    Uso&lt;/a>, que conterá as informações&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>necessárias para que a próxima disciplina,&#xD;
+    Análise e Projeto, possa ser realizada com sucesso.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Caso venham a surgir dúvidas, inseguranças ou inconsistências no detalhamento, o&#xD;
+    cliente&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>será entrevistado ou consultado por algum meio de comunicação. Após&#xD;
+    sanar a dúvida, realiza-se&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>novamente a primeira atividade, ajustando o que for&#xD;
+    necessário.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Após detalhar o caso de uso,&amp;nbsp;é feita uma revisão nos requisitos, o que pode&#xD;
+    ocasionar o&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>surgimento de um novo caso de uso, implicando em uma revisão no &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/diagrama_geral_cdus_40846856.html&quot;&#xD;
+    guid=&quot;_KH53kXpREd6pL8HyHB0u_w&quot;>Diagrama Geral de Casos de Uso (UML)&lt;/a>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>e também&#xD;
+    no &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_visao_F3AF5E8B.html&quot;&#xD;
+    guid=&quot;_KH53lnpREd6pL8HyHB0u_w&quot;>Documento de Visão&lt;/a>. Concluídas todas as atividades, inicia-se a disciplina de&#xD;
+    Análise e Projeto.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Rzd7zN5JxTXqBXcasn_dcA" name="3_identificar_mudancas_requisitos,_kF1zc3_nEd61Af7ua88vmw" guid="-Rzd7zN5JxTXqBXcasn_dcA">
+    <keyConsiderations>Essa atividade é comum à disciplina de Requisitos das fases de Elaboração e Construção.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-PoROxf8wl8AsbYWqGiLmWg" name="4_atualizar_diagrama_cdus,_kF1zdH_nEd61Af7ua88vmw" guid="-PoROxf8wl8AsbYWqGiLmWg">
+    <keyConsiderations>Essa atividade é comum à disciplina de Requisitos das fases de Elaboração e Construção.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-sWqERMh18hVsOqhWGd-vmw" name="6_realizar_analise_e_projeto,_kF1zdn_nEd61Af7ua88vmw" guid="-sWqERMh18hVsOqhWGd-vmw">
+    <keyConsiderations>Essa atividade é comum à disciplina de Requisitos das fases de Elaboração e Construção.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-fGjbuuQCWswKkUEKZzWVbw" name="Análise e Projeto Elaboração,_sJ7bIX_mEd61Af7ua88vmw" guid="-fGjbuuQCWswKkUEKZzWVbw">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A primeira atividade a ser realizada nesta disciplina&amp;nbsp;é a revisão do &lt;a&#xD;
+    class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_visao_F3AF5E8B.html&quot; guid=&quot;_KH53lnpREd6pL8HyHB0u_w&quot;>Documento de&#xD;
+    Visão&lt;/a>, &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_arq_97F75231.html&quot;&#xD;
+    guid=&quot;_KH53k3pREd6pL8HyHB0u_w&quot;>Documento de Arquitetura do Sistema&lt;/a> e documentos de &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/especificacao_cdu_B6ECAA04.html&quot; guid=&quot;_bI4FQnpREd6pL8HyHB0u_w&quot;>Especificação de Caso de&#xD;
+    Uso&lt;/a>, possibilitando assim, uma escolha mais adequada do caso de uso a ser utilizado na validação da arquitetura. Em&#xD;
+    seguida,&amp;nbsp;é identificado o caso de uso que melhor se adeque as especificações da arquitetura.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Se nenhum dos casos de uso detalhados na disciplina de&#xD;
+    Requisitos atender às especificações da arquitetura, deve-se realizar novamente a disciplina de requisitos, detalhando&#xD;
+    assim outros casos de uso que possam atender a tais especificações.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Quando o caso de uso for identificado, o mesmo será&#xD;
+    analisado, buscando identificar conceitos e operações. Em seguida, elabora-se o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/diagrama_interacao_BDB5B5DE.html&quot; guid=&quot;_bI4FQHpREd6pL8HyHB0u_w&quot;>Diagrama de Interação&#xD;
+    de Objetos (UML) para o (s) Caso (s) de Uso (s) Implementado (s)&lt;/a> (Diagrama de Sequência) e o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/diagrama_de_classes_9DB6D23A.html&quot; guid=&quot;_bIu7UXpREd6pL8HyHB0u_w&quot;>Diagrama de Classes de&#xD;
+    Projeto (UML)&lt;/a>. Por fim, a disciplina de implementação e teste&amp;nbsp;é inciada.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Se ao final da implementação e teste, a arquitetura não&#xD;
+    for validada, a mesma deve ser ajustada e a disciplina de implementação e teste executada novamente. Caso seja&#xD;
+    totalmente inválida, a arquitetura deve ser redefinida, e a disciplina análise e projeto deve ser ativada&#xD;
+    novamente.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A arquitetura estando válida, o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/doc_arq_97F75231.html&quot; guid=&quot;_KH53k3pREd6pL8HyHB0u_w&quot;>Documento de Arquitetura do&#xD;
+    Sistema&lt;/a> deve ser atualizado, caso exista alguma mudança.&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-2WxXIhuYs9eIBAPUO3xeAA" name="10_elaborar_diagrama_de_interacao,_pJyOdn_nEd61Af7ua88vmw" guid="-2WxXIhuYs9eIBAPUO3xeAA">
+    <keyConsiderations>Essa atividade é comum à disciplina de análise e projeto das fases de Elaboração e Construção.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-eO-4c1BjYjFRo9pVlscDRA" name="implementador_testador,_pJyOf3_nEd61Af7ua88vmw" guid="-eO-4c1BjYjFRo9pVlscDRA"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-6ZIV8aQVwIRDM6hCE1AuKw" name="Implementação e Testes Elaboração,_tzuqgX_mEd61Af7ua88vmw" guid="-6ZIV8aQVwIRDM6hCE1AuKw">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Inicialmente,&amp;nbsp;é realizado um estudo no documento de &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/especificacao_cdu_B6ECAA04.html&quot; guid=&quot;_bI4FQnpREd6pL8HyHB0u_w&quot;>Especificação de Caso de&#xD;
+    Uso&lt;/a> que será implementado, construído na disciplina de Análise e Projeto. De posse de todas as informações&#xD;
+    necessárias, os testes unitário e funcional são construídos, as classes do componente são implementadas e os testes&#xD;
+    efetuados. Caso erros sejam encontrados após os testes, o componente deve ter sua implementação revisada, para que os&#xD;
+    erros possam ser corrigidos.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>As atividades dessa disciplina demonstram uma preocupação quanto aos testes, obrigando&#xD;
+    o&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/roles/implementador_testador_33627EFA.html&quot;&#xD;
+    guid=&quot;_3b8ZEH7BEd6MaYaawFYtMQ&quot;>Implementador e Testador&lt;/a> a planejar os testes antes de realizar a implementação,&#xD;
+    garantindo assim que tudo que for desenvolvido deverá ser testado.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Ao fim desta disciplina, a equipe pode gozar de uma liberdade tal que permita aos&#xD;
+    trabalhadores a avaliação de alternativas tecnológicas, podendo-se assim adotar novas tecnologias, agregando valor ao&#xD;
+    sistema.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-FJaxgRdJFFMdq3r3E2Yr6A" name="Gerência de Processo Elaboração,_vzlCYX_mEd61Af7ua88vmw" guid="-FJaxgRdJFFMdq3r3E2Yr6A">
+    <mainDescription>&lt;p>&#xD;
+    As atividades da disciplina de gerência de processo na Elaboração, nos três focos, ocorrem da seguinte maneira:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ambiente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        Especificar e instalar, junto com toda a equipe, o ambiente de desenvolvimento. Este é composto (geralmente) por&#xD;
+        Integrated Development Environment (Ambiente de Desenvolvimento Integrado ou IDE), frameworks, bibliotecas (libs),&#xD;
+        forma de armazenamento persistente (Bancos de Dados, arquivos, XML, etc), software servidor (Servidor de Aplicação,&#xD;
+        Servidor HTTP, etc) e outros itens que por ventura a equipe venha a precisar. Essa atividade é realizada no&#xD;
+        primeiro ponto Especificar ferramentas inerentes ao desenvolvimento. Ele deve também tratar as incompatibilidades,&#xD;
+        como por exemplo duas IDEs especificadas para o time, ou a utilização da ferramenta de acesso ao repositório de&#xD;
+        código. Deve criar uma forma padrão de realização das tarefas utilizando as ferramentas.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Cliente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        As reuniões com o cliente já devem estar fazendo parte do dia-a-dia dele. A agenda dele já deve estar adequada com&#xD;
+        a da equipe e o relacionamento estreito como programado, obviamente que, na medida do possível. Não se pode esperar&#xD;
+        que todos os clientes sejam pessoas simpáticas e receptivas. Durante a Elaboração, as primeiras reuniões serão&#xD;
+        feitas para adquirir informação sobre os casos de uso de maior risco para poder implementá-los. As reuniões finais&#xD;
+        vão mostrar o protótipo desenvolvido para que na próxima iteração sejam somente aparadas as arestas.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Projeto&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        A execução das atividades de planejamento são realizadas em seus respectivos documentos. O macroplanejamento&#xD;
+        sofrerá mudanças e inclusão de informações não enxergadas inicialmente, gerando revisões no Plano de&#xD;
+        Desenvolvimento de Software(PDS). O microplanejamento faz a próxima iteração ser planejada num novo Plano de&#xD;
+        Iteração e Integração(Pi&amp;amp;i).&amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-gXSnHoQY6l5yNJWA4kdl9Q" name="Elaboração,_FzrR8X_mEd62TNYWta-H0w" guid="-gXSnHoQY6l5yNJWA4kdl9Q">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A arquitetura candidata&amp;nbsp;é transformada em uma base arquitetônica sólida através do&#xD;
+    desenvolvimento de um caso de uso que contemple ela por inteiro. Se ao final do desenvolvimento desse caso de uso, não&#xD;
+    for possível validar a arquitetura, deverá ser realizado o ajuste necessário, e deve-se iniciar uma nova iteração&#xD;
+    dentro da fase. Haverá tantas iterações quantas forem necessárias para que a arquitetura seja validada.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>É&amp;nbsp;importante ressaltar que o esforço para validar a arquitetura deve ser de toda a&#xD;
+    equipe, o que dará uma educação pela homogeneidade no desenvolvimento, tornando a Fase de Construção um notório&#xD;
+    complemento&amp;nbsp;a esta fase. A sistemática de desenvolvimento das demais partes do sistema seguirá a que foi utilizada&#xD;
+    durante esta fase.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Ao final da fase, os seguintes objetivos devem ser atingidos:&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Definir, validar e delinear a arquitetura do&#xD;
+        sistema;&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Demonstrar que&#xD;
+            a arquitetura suportará os requisitos do sistema a um custo e tempo justos;&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>Estabelecer um ambiente de desenvolvimento.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Esses objetivos são cumpridos através da geração dos&#xD;
+    seguintes artefatos:&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../pas/workproducts/doc_visao_F3AF5E8B.html&quot; guid=&quot;_KH53lnpREd6pL8HyHB0u_w&quot;>Documento de Visão&lt;/a>&#xD;
+        revisado;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>Documento de &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../pas/workproducts/especificacao_cdu_B6ECAA04.html&quot; guid=&quot;_bI4FQnpREd6pL8HyHB0u_w&quot;>Especificação de&#xD;
+        Caso de Uso&lt;/a>;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../pas/workproducts/doc_arq_97F75231.html&quot; guid=&quot;_KH53k3pREd6pL8HyHB0u_w&quot;>Documento de Arquitetura do&#xD;
+        Sistema&lt;/a> revisado;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../pas/workproducts/plano_de_testes_824797FD.html&quot; guid=&quot;_bI4FRHpREd6pL8HyHB0u_w&quot;>Plano de&#xD;
+        Testes&lt;/a>;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_amb_2F1D7C6C.html&quot;&#xD;
+        guid=&quot;_KH53knpREd6pL8HyHB0u_w&quot;>Documento de&#xD;
+        Ambiente&lt;/a>.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-wa1OylEC8re2hzFLvBAy6Q" name="3_identificar_mudancas_requisitos,_1s9bIn_nEd61Af7ua88vmw" guid="-wa1OylEC8re2hzFLvBAy6Q">
+    <keyConsiderations>Essa atividade é comum à disciplina de Requisitos das fases de Elaboração e Construção.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-6VX3NiBUObQGuGPSICxmcg" name="4_atualizar_diagrama_cdus,_1s9bI3_nEd61Af7ua88vmw" guid="-6VX3NiBUObQGuGPSICxmcg">
+    <keyConsiderations>Essa atividade é comum à disciplina de Requisitos das fases de Elaboração e Construção.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-Lo3561dhzFvJ97HyimAHLw" name="6_realizar_analise_e_projeto,_1s9bJX_nEd61Af7ua88vmw" guid="-Lo3561dhzFvJ97HyimAHLw">
+    <keyConsiderations>Essa atividade é comum à disciplina de Requisitos das fases de Elaboração e Construção.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-hlRXK0ZVet6dQJlAvI85Eg" name="Análise e Projeto Construção,_z2HDsX_mEd61Af7ua88vmw" guid="-hlRXK0ZVet6dQJlAvI85Eg">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>As atividades consitem basicamente em analisar o caso de uso, identificando conceitos,&#xD;
+    operações e componentes; atividades que podem acontecer em paralelo.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Em seguida o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/diagrama_interacao_BDB5B5DE.html&quot; guid=&quot;_bI4FQHpREd6pL8HyHB0u_w&quot;>Diagrama de Interação&#xD;
+    de Objetos (UML) para o (s) Caso (s) de Uso (s) Implementado (s)&lt;/a>&amp;nbsp;é construído e o &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/diagrama_de_classes_9DB6D23A.html&quot; guid=&quot;_bIu7UXpREd6pL8HyHB0u_w&quot;>Diagrama de Classes de&#xD;
+    Projeto (UML)&lt;/a> atualizado.&amp;nbsp;É importante salientar que&amp;nbsp;é nessa disciplina que os componentes são&#xD;
+    identificados. Eles serão a base para a implementação, que ocorrerá orientada a componentes.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-EKFLaMNJdXwRS_Cr9HhMyQ" name="implementador_testador,_4SNmKH_nEd61Af7ua88vmw" guid="-EKFLaMNJdXwRS_Cr9HhMyQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-jqkEI_OAb1iLFgSuIkMZ4A" name="10_elaborar_diagrama_de_interacao,_G8xYQH_3Ed61Af7ua88vmw" guid="-jqkEI_OAb1iLFgSuIkMZ4A">
+    <keyConsiderations>Essa atividade é comum à disciplina de análise e projeto das fases de Elaboração e Construção.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-FBhD0Jn5O2s6cnFs8v7UCA" name="Implementação e Testes Construção,_2QL5cX_mEd61Af7ua88vmw" guid="-FBhD0Jn5O2s6cnFs8v7UCA">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A primeira atividade da disciplina&amp;nbsp;é o planjamento da integração a ser realizada&#xD;
+    ao final da&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>mesma. Em seguida, os componentes identificados na disciplina&#xD;
+    anterior, serão divididos dentro&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>da equipe de desenvolvimento, de maneiras que a&#xD;
+    codificação dos mesmos ocorra de maneira&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>paralela.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>A codificação ocorre da mesma maneira que na fase anterior, sendo inicialmente&#xD;
+    constru&lt;/font>í&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>dos os testes unitários e em seguida, implementado e testado o&#xD;
+    componente. Caso erros&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>sejam encontrados após os testes, o componente&amp;nbsp;é&#xD;
+    implementado novamente, para que os erros&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>possam ser corrigidos. A iteração&#xD;
+    acaba quando todos os componentes para o caso de uso forem&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>integrados ao&#xD;
+    sistema. Em cada iteração dentro da fase, será implementado um caso de uso.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-VJUZkNMoECgwfqA7cfgPew" name="Gerência de Processo Construção,_3_WxAX_mEd61Af7ua88vmw" guid="-VJUZkNMoECgwfqA7cfgPew">
+    <mainDescription>&lt;p>&#xD;
+    As atividades dentro dos focos são:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ambiente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        Encontra as incompatibilidades entre as ferramentas utilizadas e as trata. A construção utiliza o ambiente&#xD;
+        preparado nas duas fases anteriores e não acrescenta muito ao documento de ambiente.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Cliente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        As reuniões com o cliente são feitas para entregas de protótipo. O principal artefato a ser entregue&amp;nbsp;são&#xD;
+        os&amp;nbsp;&lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/codigos_fontes_9318F22A.html&quot;&#xD;
+        guid=&quot;_bIu7UHpREd6pL8HyHB0u_w&quot;>Códigos Fontes&lt;/a>, então as reuniões devem ser acompanhadas por desenvolvedores&#xD;
+        capacitados (&lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/roles/implementador_testador_33627EFA.html&quot;&#xD;
+        guid=&quot;_3b8ZEH7BEd6MaYaawFYtMQ&quot;>Implementador e Testador&lt;/a>)&amp;nbsp;para explicar em níveis de detalhe o que foi&#xD;
+        produzido. Da mesma forma, são os mais indicados para ouvirem os ajustes finos e rapidamente implementar as&#xD;
+        alterações desejadas.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Projeto&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        A principal atividade deste foco é integrar o que está sendo produzido a cada iteração. Possivelmente, muita&#xD;
+        informação nova será dada ao &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/roles/gerente_691919DB.html&quot;&#xD;
+        guid=&quot;_OlqUAnmbEd6IMtncZulwRw&quot;>Gerente de Projetos&lt;/a>, pois muitos casos de uso serão detalhados e mudanças podem&#xD;
+        surgir em todo o escopo do projeto. O ciclo de entregas deve ser planejado no &lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../pas/workproducts/plan_iteracao_BF0A4C84.html&quot; guid=&quot;_KH53mHpREd6pL8HyHB0u_w&quot;>Plano de Iteração e&#xD;
+        Integração&lt;/a> e as revisões no &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/plan_des_soft_5C893450.html&quot;&#xD;
+        guid=&quot;_KH53l3pREd6pL8HyHB0u_w&quot;>Plano de Desenvolvimento de Software&lt;/a> serão feitas&amp;nbsp;à medida em que a&#xD;
+        implementação (ou não) dos casos de uso traga alterações ao cronograma.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-lUGvrkI9zpPx_MNpXewP2A" name="15_desenvolver_plan_iteracao,_7mzjZ3_nEd61Af7ua88vmw" guid="-lUGvrkI9zpPx_MNpXewP2A">
+    <keyConsiderations>Essa atividade é comum à disciplina de Liderençca de Processo de todas as fases do Processo.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-u8ZniCNwri3D99lzkQ_YQw" name="gerente,_7mzjaX_nEd61Af7ua88vmw" guid="-u8ZniCNwri3D99lzkQ_YQw"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-npriAM4Qa6D1ITSBIDDuDg" name="Construção,_GsTjEX_mEd62TNYWta-H0w" guid="-npriAM4Qa6D1ITSBIDDuDg">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Certamente, o quebra-cabeça do gerenciamento sofre uma transição do desenvolvimento&#xD;
+    de&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>propriedade intelectual durante a concepção e a elaboração para o&#xD;
+    desenvolvimento de produtos&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>para distribuição durante a construção e a&#xD;
+    validação. A meta da fase de construção&amp;nbsp;é esclarecer&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>os requisitos&#xD;
+    restantes e concluir o desenvolvimento do sistema com base na arquitetura.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Nessa fase, a equipe poderá ser dividida, possibilitando a execução das iterações de&#xD;
+    maneira&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>paralela. Cada iteração corresponde ao desenvolvimento de um caso de&#xD;
+    uso. Portanto, nesta&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>fase, o número de iterações corresponderá ao número de&#xD;
+    casos de uso a serem desenvolvidos.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Ao final da fase, os seguintes objetivos devem ser&#xD;
+    atingidos:&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Atingir a qualidade&#xD;
+        adequada com rapidez e eficiência;&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>Concluir a análise, o desenvolvimento e o teste de todas as funcionalidades&#xD;
+        necessárias;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+            face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Desenvolver de modo iterativo e incremental um&#xD;
+            produto completo que esteja pronto para&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font> &lt;font&#xD;
+            face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+            face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>a validação;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;left&quot;>&#xD;
+            &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+            face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Minimizar custos de&#xD;
+            desenvolvimento, aperfeiçoando recursos e evitando fragmentar e&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font> &lt;font&#xD;
+            face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+            face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>refazer o&#xD;
+            desnecessário.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>Esses objetivos são cumpridos através da geração dos seguintes&#xD;
+    artefatos:&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../pas/workproducts/doc_visao_F3AF5E8B.html&quot; guid=&quot;_KH53lnpREd6pL8HyHB0u_w&quot;>Documento de Visão&lt;/a>&#xD;
+        revisado;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Documento de &lt;a&#xD;
+        class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/especificacao_cdu_B6ECAA04.html&quot;&#xD;
+        guid=&quot;_bI4FQnpREd6pL8HyHB0u_w&quot;>Especificação de Caso de Uso&lt;/a>, para cada caso de uso&#xD;
+        implementado;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/codigos_fontes_9318F22A.html&quot;&#xD;
+        guid=&quot;_bIu7UHpREd6pL8HyHB0u_w&quot;>Códigos Fontes&lt;/a> dos casos de uso&#xD;
+        implementados;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;a class=&quot;elementLink&quot;&#xD;
+        href=&quot;./../../pas/workproducts/plan_iteracao_BF0A4C84.html&quot; guid=&quot;_KH53mHpREd6pL8HyHB0u_w&quot;>Plano de Iteração e&#xD;
+        Integração&lt;/a>.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-vHicr6FSF0-zsEA3-te3uw" name="Requisitos Validação,_6TeIsX_mEd61Af7ua88vmw" guid="-vHicr6FSF0-zsEA3-te3uw">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>O&amp;nbsp; fluxo de atividades dessa disciplina na fase de&#xD;
+    Validação&amp;nbsp;possui&lt;/font>&amp;nbsp;&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>apenas duas atividades. Uma responsável por verificar&#xD;
+    o surgimento de novas funcionalidades&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>e, em caso positivo, outra para chamar as&#xD;
+    atividades da mesma disciplina da fase anterior.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-AD5kcSg-Lw5tMYdBviQ3wg" name="Implementação e Testes Validação,_89MkAH_mEd61Af7ua88vmw" guid="-AD5kcSg-Lw5tMYdBviQ3wg">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>As atividades acontecem basicamente em dois momentos. No primeiro momento são&#xD;
+    planejados e executados testes no ambiente de desenvolvimento (testes alfa) e no segundo, o sistema&amp;nbsp;é implantado e&#xD;
+    são executados testes de usabilidade e testes beta (teste no ambiente do cliente). Ao final,&amp;nbsp;é gerado um relatório&#xD;
+    com as informações coletadas nos testes.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Encontrando erros após a execução dos testes alfa e/ou beta, dependendo de sua&#xD;
+    natuteza, a correção deverá ser feita na modelagem ou nos &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/codigos_fontes_9318F22A.html&quot; guid=&quot;_bIu7UHpREd6pL8HyHB0u_w&quot;>Códigos Fontes&lt;/a>. No caso&#xD;
+    de uma remodelagem, as disciplinas de requisitos e análise e projeto são executadas e, ao final, realizam-se novamente&#xD;
+    os referidos testes.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Já no caso de problemas nos &lt;a class=&quot;elementLink&quot;&#xD;
+    href=&quot;./../../pas/workproducts/codigos_fontes_9318F22A.html&quot; guid=&quot;_bIu7UHpREd6pL8HyHB0u_w&quot;>Códigos Fontes&lt;/a>, uma&#xD;
+    nova execução da disciplina de implementação e testes deverá sanar o problema. São realizadas tantas iterações quantas&#xD;
+    forem necessárias, até que o uso do sistema seja aprovado pelo cliente.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-5KlsvwI3YvQpkqh0McdLKA" name="implementador_testador,_EyzY6n_oEd61Af7ua88vmw" guid="-5KlsvwI3YvQpkqh0McdLKA"/>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-tHqol6GncM2nj_DKc1Mtvw" name="Gerência de Processo Validação,_-uvaIX_mEd61Af7ua88vmw" guid="-tHqol6GncM2nj_DKc1Mtvw">
+    <mainDescription>&lt;p>&#xD;
+    Dentro dos três focos, as atividades são executadas da seguinte maneira:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Ambiente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        O Gerente deve identificar os softwares necessários para que o sistema seja implantado e funcione normalmente,&#xD;
+        possivelmente num servidor do contratante. Após identificados, os softwares devem ser instalados e o sistema&#xD;
+        implantado. O &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_amb_2F1D7C6C.html&quot;&#xD;
+        guid=&quot;_KH53knpREd6pL8HyHB0u_w&quot;>Documento de Ambiente&lt;/a> para esta fase relata o ambiente de implantação, e não&#xD;
+        mais de desenvolvimento.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Cliente&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        A(s) Reunião(ões) com o cliente entregam o sistema completo em funcionamento implantado em ambiente desejado por&#xD;
+        ele. Caso haja satisfação, o projeto é finalizado. Caso existam discordâncias, uma nova iteração é requerida para&#xD;
+        que sejam realizados os ajustes, essa nova iteração pode durar muito pouco, cerca de um ou dois dias. E assim&#xD;
+        sucessivamente, até que seja entregue o produto e o cliente esteja satisfeito. Se nas fases anteriores, o processo&#xD;
+        se desenvolveu como proposto, não existirão grandes alterações identificadas e requeridas pelo cliente, afinal de&#xD;
+        contas ele vem acompanhando desde cedo cada apresentação de protótipo. Por não existirem grandes mudanças a serem&#xD;
+        realizadas durante essa fase, o &lt;a class=&quot;elementLink&quot; href=&quot;./../../pas/workproducts/doc_fdbk_FA786A65.html&quot;&#xD;
+        guid=&quot;_KH53lHpREd6pL8HyHB0u_w&quot;>Documento de Feedback&lt;/a> é dispensável.&amp;nbsp;&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Projeto&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;blockquote dir=&quot;ltr&quot; style=&quot;MARGIN-RIGHT: 0px&quot;>&#xD;
+    &lt;p align=&quot;justify&quot;>&#xD;
+        Após várias alterações no cronograma, durante esta fase pouco será alterado. O sistema já deve estar maduro e a&#xD;
+        finalização do projeto é dada como certa. As iterações finais já devem planejar, inclusive, uma comemoração para o&#xD;
+        fim do projeto.&#xD;
+    &lt;/p>&#xD;
+&lt;/blockquote></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-n-7667fJwi-nLPfwAmfgxg" name="15_desenvolver_plan_iteracao,_Gss5x3_oEd61Af7ua88vmw" guid="-n-7667fJwi-nLPfwAmfgxg">
+    <keyConsiderations>Essa atividade é comum à disciplina de Liderençca de Processo de todas as fases do Processo.</keyConsiderations>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-PL7ZINTIRHEatrqLjGRJtQ" name="gerente,_Gss5yX_oEd61Af7ua88vmw" guid="-PL7ZINTIRHEatrqLjGRJtQ"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-TQfRBWsOs0V3WB7uPmRC4g" name="implementador_testador,_Gss5yn_oEd61Af7ua88vmw" guid="-TQfRBWsOs0V3WB7uPmRC4g"/>
+  <org.eclipse.epf.uma:DescriptorDescription xmi:id="-nn52j2-H_RE9D2RTrXmc2w" name="designer,_Gss5zn_oEd61Af7ua88vmw" guid="-nn52j2-H_RE9D2RTrXmc2w">
+    <keyConsiderations>O Designer não implementa a interface do usuário. Esse papel apenas se concentra no design e na &quot;formatação visual&quot; da&#xD;
+interface.</keyConsiderations>
+    <refinedDescription>&lt;p>&#xD;
+    O Designer lidera e coordena a construção do protótipo e o design da interface do usuário da seguinte forma:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        Capturando os requisitos da interface do usuário, incluindo requisitos de usabilidade&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Construindo protótipos de interface do usuário&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Incluindo outros envolvidos da interface de usuário, como usuários, nas revisões de usabilidade e nas sessões de&#xD;
+        teste de uso&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        Revisando e fornecendo o feedback apropriado sobre a implementação final da interface do usuário, se criada por&#xD;
+        outros desenvolvedores, ou seja, projetistas e implementadores.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&lt;br /></refinedDescription>
+  </org.eclipse.epf.uma:DescriptorDescription>
+  <org.eclipse.epf.uma:ActivityDescription xmi:id="-YMQPYY6neBHpwYU03C5yrw" name="Validação,_IG540X_mEd62TNYWta-H0w" guid="-YMQPYY6neBHpwYU03C5yrw">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Nesse momento do ciclo de vida, o&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-ReguItal&quot;>feedback&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>do usuário deve priorizar o ajuste fino&#xD;
+    do produto, a configuração, a instalação e os&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>problemas de usabilidade; todos os&#xD;
+    problemas estruturais mais graves devem ter sido trabalhados&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>antes no ciclo de&#xD;
+    vida do projeto.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>No entanto, modificações podem acontecer quando o cliente for realizar o “teste” da&#xD;
+    aplicação.&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Essas modificações incluem desde pequenos ajustes na interface, até a&#xD;
+    inclusão de novas caracter&lt;/font>í&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>sticas, o que gera o surgimento de novos requisitos e&#xD;
+    consequentemente novos casos de uso.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Caso ocorram mudanças a nível de requisitos e casos de uso, será realizada uma nova&#xD;
+    iteração&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>para cada novo caso de uso, com basicamente as mesmas atividades da&#xD;
+    fase de construção. Isso&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>não significa que a fase de construção irá acontecer&#xD;
+    novamente, apenas as atividades executadas&amp;nbsp;é&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>que serão as mesmas.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>No fim do ciclo de vida da fase, os objetivos devem ter&#xD;
+    sido atendidos e o projeto deve estar&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>em&#xD;
+    uma posição de fechamento. Em alguns casos, o fim do ciclo de vida atual pode coincidir&lt;/font>&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>com o início de outro ciclo de vida no mesmo produto,&#xD;
+    conduzindo&amp;nbsp;à nova geração ou versão&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>do produto. Para outros projetos, o fim da validação pode coincidir com uma liberação total&#xD;
+    dos&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>artefatos a terceiros, que poderão&#xD;
+    ser responsáveis pela operação, manutenção e melhorias no&lt;/font>&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>sistema.&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Ao final da fase, os&#xD;
+    seguintes objetivos devem ser atingidos:&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>Entregar e instalar o produto gerado no cliente;&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+        face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Corrigir defeitos e modificar o sistema para corrigir&#xD;
+        problemas não identificados previamente.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>&lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Esses objetivos são cumpridos&#xD;
+    através da geração do Produto.&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p></mainDescription>
+  </org.eclipse.epf.uma:ActivityDescription>
+  <org.eclipse.epf.uma:DeliveryProcessDescription xmi:id="-oFK5rBH75hJXUkoiPEDZBQ" name="pas,_f7tAMX_lEd62TNYWta-H0w" guid="-oFK5rBH75hJXUkoiPEDZBQ">
+    <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    As fases são organizadas da seguinte forma:&#xD;
+&lt;/p>&#xD;
+&lt;h2 style=&quot;MARGIN: auto 0cm&quot;>&#xD;
+    Concepção&#xD;
+&lt;/h2>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;Arial&quot;>A fase de concepção representa o bloco inicial. Ela envolve a articulação da visão para o sistema e&#xD;
+    o estabelecimento de um projeto formal para construir o sistema. Deve ser algo mais do que uma boa idéia rabiscada em&#xD;
+    um papel de rascunho. No final desta fase deve-se ter definido o escopo do produto, um vislumbre dos riscos a serem&#xD;
+    encontrados e ter demonstrado que o projeto é viável do ponto de vista do negócio da organização. Estes itens serão a&#xD;
+    fundação para a próxima fase. Autoriza formalmente um projeto (PMBOK, 2004).&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;Arial&quot;>Nessa fase iremos:&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;ul type=&quot;disc&quot;>&#xD;
+    &lt;li class=&quot;MsoNormal&quot;&#xD;
+    style=&quot;MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt&quot;>&#xD;
+        &lt;font face=&quot;Arial&quot;>&lt;strong>Iniciar documento de&amp;nbsp;Visão do&amp;nbsp;sistema&lt;/strong>:&amp;nbsp; Nessa atividade, dá-se&#xD;
+        uma visão geral do que será desenvolvido para que seja posto à prova.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;MsoNormal&quot;&#xD;
+    style=&quot;MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l0 level1 lfo1; tab-stops: list 36.0pt&quot;>&#xD;
+        &lt;font face=&quot;Arial&quot;>&lt;strong>Identificar os riscos&lt;/strong>: Procuramos os primeiros riscos que poderiam fazer falhar&#xD;
+        o projeto e tentar achar uma solução para eles. Outros riscos, menos graves, serão identificado e tratado nas fases&#xD;
+        a seguir.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;MsoNormal&quot;&#xD;
+    style=&quot;MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l3 level1 lfo4; tab-stops: list 36.0pt&quot;>&#xD;
+        &lt;font face=&quot;Arial&quot;>&lt;strong>Criar um protótipo&lt;/strong>: Queremos mostrar aos usuários como o sistema vai resolver o&#xD;
+        problema deles. Por exemplo, podemos criar uma seqüência de telas para mostrar como o sistema vai funcionar, ou&#xD;
+        podemos criar um protótipo mesmo.&lt;/font>&#xD;
+    &lt;/li>&#xD;
+    &lt;li class=&quot;MsoNormal&quot;&#xD;
+    style=&quot;MARGIN: 0cm 0cm 0pt; mso-margin-top-alt: auto; mso-margin-bottom-alt: auto; mso-list: l3 level1 lfo4; tab-stops: list 36.0pt&quot;>&#xD;
+        &lt;strong>Implementar um caso de Uso de Risco&lt;/strong>: Procuramos mostrar aos usuários a implementação de um caso de&#xD;
+        uso do sistema, com isso ganha-se satisfação e feedback. Essa implementação se torna importante pois consegue-se&#xD;
+        validar a arquitetura do sistema e verificar possíveis problemas.&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;h2 style=&quot;MARGIN: auto 0cm&quot;>&#xD;
+    &lt;a id=&quot;elaboracao&quot; name=&quot;elaboracao&quot;>&lt;font size=&quot;4&quot; face=&quot;Arial&quot;>Elaboração&lt;/font>&lt;/a>&amp;nbsp;&#xD;
+&lt;/h2>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;Arial&quot;>Segundo KRUCHTEN (2000), o propósito da fase de elaboração é analisar o domínio do problema,&#xD;
+    estabelecer uma arquitetura saudável, desenvolver o plano de projeto e eliminar os elementos de alto risco do&#xD;
+    projeto.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;Arial&quot;>Para a maioria dos projetos, esta fase corresponde à transição de uma operação móvel, ágil, de pouco&#xD;
+    risco, para um alto custo, operação de alto risco que tem inércia significativa.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;Arial&quot;>Embora o processo sempre tenha que acomodar mudanças, as atividades da fase de elaboração asseguram&#xD;
+    que a arquitetura, requisitos e planos são bastante estáveis e os riscos suficientemente mitigados, que se pode&#xD;
+    determinar o custo de maneira previsível e pode programar a conclusão do desenvolvimento. Conceitualmente, este nível&#xD;
+    de fidelidade corresponde ao nível necessário para uma organização comprometer-se a uma fase de construção de preço&#xD;
+    fixo.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;Arial&quot;>&lt;font size=&quot;3&quot;>&lt;font size=&quot;2&quot;>(Kruchten, Philippe – Introdução ao RUP – Rational Unified Process,&#xD;
+    Tradução: Rüdiger, Debora, Ed. Ciência Moderna, Rio de Janeiro, 2003.)&lt;/font>&lt;/font>&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;h2 style=&quot;MARGIN: auto 0cm&quot;>&#xD;
+    &lt;a id=&quot;construcao&quot; name=&quot;construcao&quot;>&lt;font size=&quot;4&quot; face=&quot;Arial&quot;>Construção&lt;/font>&lt;/a>&#xD;
+&lt;/h2>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;Arial&quot;>Durante esta fase, serão priorizados os componentes essenciais juntamente com as características da&#xD;
+    aplicação que serão desenvolvidas e integradas ao produto que posteriormente serão testadas.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;Arial&quot;>Essas atividades visam alcançar a funcionalidade associada a qualidade tão rápida quanto possível de&#xD;
+    ser realizada denotando condições a obtenção de versões úteis.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;h2 style=&quot;MARGIN: auto 0cm&quot;>&#xD;
+    &lt;a id=&quot;validacao&quot; name=&quot;validacao&quot;>&lt;font size=&quot;4&quot; face=&quot;Arial&quot;>Validação&lt;/font>&lt;/a>&#xD;
+&lt;/h2>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;Arial&quot;>O foco desta fase é assegurar que o software esteja disponível para seus usuários finais. A Fase de&#xD;
+    Validação pode atravessar várias iterações e inclui testar o produto em preparação para release e ajustes pequenos com&#xD;
+    base no feedback do usuário.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;Arial&quot;>No fim do ciclo de vida da Fase de Validação, os objetivos devem ter sido atendidos e o projeto deve&#xD;
+    estar em uma posição de fechamento. Em alguns casos, o fim do ciclo de vida atual pode coincidir com o início de outro&#xD;
+    ciclo de vida no mesmo produto, conduzindo à nova geração ou versão do produto. Para outros projetos, o fim da&#xD;
+    Validação pode coincidir com uma liberação total dos artefatos a terceiros que poderão ser responsáveis pela operação,&#xD;
+    manutenção e melhorias no sistema liberado.&lt;/font>&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;Arial&quot;>As atividades realizadas durante uma iteração na Fase de Validação dependem da meta. Por exemplo, ao&#xD;
+    corrigir erros, normalmente bastam a implementação. Se, no entanto, novas características tiverem de ser adicionadas, a&#xD;
+    iteração será semelhante a uma da fase de construção, exigindo análise, design, etc.&lt;/font>&amp;nbsp;&amp;nbsp;&#xD;
+&lt;/p></mainDescription>
+    <purpose>&lt;p align=&quot;justify&quot;>&#xD;
+    O PAWEB foi elaborado com o propósito de ser utilizado em práticas acadêmicas de desenvolvimento de software para&#xD;
+    Sistemas Web.&#xD;
+&lt;/p></purpose>
+  </org.eclipse.epf.uma:DeliveryProcessDescription>
+</xmi:XMI>

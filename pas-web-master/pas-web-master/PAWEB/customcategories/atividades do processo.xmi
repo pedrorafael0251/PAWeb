@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rwKHw7wT4z_3-fCh7CZR4Q" name="new_custom_category,_zw-pEIAHEd6eXbvB7wA9gw" guid="-rwKHw7wT4z_3-fCh7CZR4Q" changeDate="2014-09-11T14:07:38.548-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    As fases são miniprojetos do ciclo de vida do desenvolvimento. As disciplinas são macro-atividades que ocorrem em&#xD;
+    paralelo em cada fase e que são compostas por diversas micro-atividades.&#xD;
+&lt;/p>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    As fases do PAAD são quatro:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Concepção&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Elaboração&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Construção&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Validação&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul>&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    As disciplinas que iteram dentro das fases são também em quatro:&#xD;
+&lt;/p>&#xD;
+&lt;ul>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Requisitos&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Análise e Projeto&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Implementação e Testes&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+    &lt;li>&#xD;
+        &lt;div align=&quot;justify&quot;>&#xD;
+            Gerência de Processo.&#xD;
+        &lt;/div>&#xD;
+    &lt;/li>&#xD;
+&lt;/ul></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-oEoLSn_T8PYaVkcNH7xJAg" name="impl_testes,_a777gHlLEd6Q9KdDavqEGw" guid="-oEoLSn_T8PYaVkcNH7xJAg" changeDate="2009-08-02T20:45:43.321-0300">
+  <mainDescription>&lt;p align=&quot;justify&quot;>&#xD;
+    &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>Caso sistema a ser desenvolvido derive&lt;/font> &lt;font face=&quot;NimbusRomNo9L-Regu&quot;>de um&#xD;
+    sistema legado, as telas do mesmo são capturadas e adaptadas ao novo sistema. Caso&lt;/font> &lt;font&#xD;
+    face=&quot;NimbusRomNo9L-Regu&quot;>contrário,&amp;nbsp;é confeccionado um protótipo contendo as principais telas do novo&#xD;
+    sistema.&lt;/font>&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

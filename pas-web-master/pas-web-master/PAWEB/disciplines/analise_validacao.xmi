@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<org.eclipse.epf.uma:ContentDescription xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1" xmi:id="-rGYWaU0Vb9lNzcMQbEM0_A" name="analise_validacao,_lOlnUHlcEd6Q9KdDavqEGw" guid="-rGYWaU0Vb9lNzcMQbEM0_A" changeDate="2009-08-02T23:24:39.267-0300">
+  <mainDescription>&lt;br />&#xD;
+&lt;p align=&quot;justify&quot;>&#xD;
+    O fluxo de atividades de análise eprojeto da Validação&amp;nbsp;possui as mesmas atividades da anterior, com a única&#xD;
+    diferença de que, em caso de novas funcionalidades, serão realizadas as atividades da disciplina de análise e projeto&#xD;
+    da fase anterior.&#xD;
+&lt;/p></mainDescription>
+</org.eclipse.epf.uma:ContentDescription>

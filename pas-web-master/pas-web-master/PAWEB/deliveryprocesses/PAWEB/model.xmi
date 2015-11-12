@@ -1,0 +1,691 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:org.eclipse.epf.uma="http://www.eclipse.org/epf/uma/1.0.6/uma.ecore" xmlns:org.eclipse.epf.uma.resourcemanager="http:///org/eclipse/epf/uma/resourcemanager.ecore" xmlns:epf="http://www.eclipse.org/epf" epf:version="1.5.1">
+  <org.eclipse.epf.uma.resourcemanager:ResourceManager xmi:id="_nN_k8Gr4EeS6d_1njT3EqA" guid="_nN_k8Gr4EeS6d_1njT3EqA">
+    <resourceDescriptors xmi:id="_nN_k8Wr4EeS6d_1njT3EqA" id="-f4fArVL9nU7rTFsM_CaP2Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nOUVEGr4EeS6d_1njT3EqA" id="-CjcEtx8TWb-YsPi6t2QK8w" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nOpsQGr4EeS6d_1njT3EqA" id="-7EVz_X7iRNL__hjHOVMjtQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nO6yAGr4EeS6d_1njT3EqA" id="-GST0GvsxIFnfIma3QuxJIw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nPO7EGr4EeS6d_1njT3EqA" id="-8XhNrv_ZeqmMUHCoP57_3g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nPfZwGr4EeS6d_1njT3EqA" id="-FK5ti_FPgIk-WRgBdNpTUQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nPy7wGr4EeS6d_1njT3EqA" id="-w0dwW4vP7SPg04587EjRlA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nQGdwGr4EeS6d_1njT3EqA" id="-xxeb8Nk_MfXImFmUoSpJbQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nQeRMGr4EeS6d_1njT3EqA" id="-yTthkNmcS3PLnwH8q9KObA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nQthwGr4EeS6d_1njT3EqA" id="-8Qma60ZWIsDt-pzwJme9Nw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nRBDwGr4EeS6d_1njT3EqA" id="-Rzd7zN5JxTXqBXcasn_dcA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nRWa8Gr4EeS6d_1njT3EqA" id="-PoROxf8wl8AsbYWqGiLmWg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nRou0Gr4EeS6d_1njT3EqA" id="-sWqERMh18hVsOqhWGd-vmw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nR-tEGr4EeS6d_1njT3EqA" id="-fGjbuuQCWswKkUEKZzWVbw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nSPy0Gr4EeS6d_1njT3EqA" id="-2WxXIhuYs9eIBAPUO3xeAA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nSki8Gr4EeS6d_1njT3EqA" id="-eO-4c1BjYjFRo9pVlscDRA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nS56IGr4EeS6d_1njT3EqA" id="-6ZIV8aQVwIRDM6hCE1AuKw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nTPRUGr4EeS6d_1njT3EqA" id="-FJaxgRdJFFMdq3r3E2Yr6A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nTizUGr4EeS6d_1njT3EqA" id="-gXSnHoQY6l5yNJWA4kdl9Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nT5YoGr4EeS6d_1njT3EqA" id="-wa1OylEC8re2hzFLvBAy6Q" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nUM6oGr4EeS6d_1njT3EqA" id="-6VX3NiBUObQGuGPSICxmcg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nUi44Gr4EeS6d_1njT3EqA" id="-Lo3561dhzFvJ97HyimAHLw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nU8hgGr4EeS6d_1njT3EqA" id="-hlRXK0ZVet6dQJlAvI85Eg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nVWxMGr4EeS6d_1njT3EqA" id="-EKFLaMNJdXwRS_Cr9HhMyQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nVrhUGr4EeS6d_1njT3EqA" id="-jqkEI_OAb1iLFgSuIkMZ4A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nWCtsGr4EeS6d_1njT3EqA" id="-FBhD0Jn5O2s6cnFs8v7UCA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nWVooGr4EeS6d_1njT3EqA" id="-VJUZkNMoECgwfqA7cfgPew" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nWmuYGr4EeS6d_1njT3EqA" id="-lUGvrkI9zpPx_MNpXewP2A" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nW5CQGr4EeS6d_1njT3EqA" id="-u8ZniCNwri3D99lzkQ_YQw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nXLWIGr4EeS6d_1njT3EqA" id="-npriAM4Qa6D1ITSBIDDuDg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nXdC8Gr4EeS6d_1njT3EqA" id="-vHicr6FSF0-zsEA3-te3uw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nXuIsGr4EeS6d_1njT3EqA" id="-AD5kcSg-Lw5tMYdBviQ3wg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nYEuAGr4EeS6d_1njT3EqA" id="-5KlsvwI3YvQpkqh0McdLKA" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nYWa0Gr4EeS6d_1njT3EqA" id="-tHqol6GncM2nj_DKc1Mtvw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nYrK8Gr4EeS6d_1njT3EqA" id="-n-7667fJwi-nLPfwAmfgxg" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nY-s8Gr4EeS6d_1njT3EqA" id="-PL7ZINTIRHEatrqLjGRJtQ" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nZS2AGr4EeS6d_1njT3EqA" id="-TQfRBWsOs0V3WB7uPmRC4g" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nZlw8Gr4EeS6d_1njT3EqA" id="-nn52j2-H_RE9D2RTrXmc2w" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_nZ4E0Gr4EeS6d_1njT3EqA" id="-YMQPYY6neBHpwYU03C5yrw" uri="content.xmi"/>
+    <resourceDescriptors xmi:id="_naP4QGr4EeS6d_1njT3EqA" id="-oFK5rBH75hJXUkoiPEDZBQ" uri="content.xmi"/>
+  </org.eclipse.epf.uma.resourcemanager:ResourceManager>
+  <org.eclipse.epf.uma:ProcessComponent xmi:id="_f7tAMH_lEd62TNYWta-H0w" name="PAWEB" guid="_f7tAMH_lEd62TNYWta-H0w">
+    <methodElementProperty xmi:id="_nanrsGr4EeS6d_1njT3EqA" name="me_edited" value="true"/>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_Ecp0oH_mEd62TNYWta-H0w" name="Concepção" guid="_Ecp0oH_mEd62TNYWta-H0w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_b8XAUH_mEd61Af7ua88vmw" name="requisitos_concepcao" guid="_b8XAUH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_b8XAUX_mEd61Af7ua88vmw" name="requisitos_concepcao" guid="_b8XAUX_mEd61Af7ua88vmw" presentationName="Requisitos Concepção" briefDescription="A disciplina de requisitos na fase de Concepção é aquela onde se gastará maior tempo e esforço. Ela se inicia com a definição do projeto e termina com a breve descrição dos casos de uso." superActivities="_Ecp0oX_mEd62TNYWta-H0w" breakdownElements="_EBlz0H_nEd61Af7ua88vmw _EBlz0X_nEd61Af7ua88vmw _EBlz0n_nEd61Af7ua88vmw _EBlz03_nEd61Af7ua88vmw _EBlz1H_nEd61Af7ua88vmw _EBlz1X_nEd61Af7ua88vmw _EBlz1n_nEd61Af7ua88vmw _EBlz13_nEd61Af7ua88vmw _EBvk0H_nEd61Af7ua88vmw _EBvk0X_nEd61Af7ua88vmw">
+          <presentation xmi:id="-f4fArVL9nU7rTFsM_CaP2Q" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-f4fArVL9nU7rTFsM_CaP2Q"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EBlz0H_nEd61Af7ua88vmw" name="1_definir_projeto" guid="_EBlz0H_nEd61Af7ua88vmw" presentationName="Cliente Define o Projeto a ser Desenvolvido" briefDescription="A definição do projeto ocorre através de uma entrevista com o cliente, onde o mesmo expõe&#xD;&#xA;o problema que deseja solucionar. Se o problema for entendido pela equipe de desenvolvimento,&#xD;&#xA;passa-se para a definição do escopo, senão entrevista-se novamente o cliente, até que se tenha&#xD;&#xA;entendimento do problema." superActivities="_b8XAUX_mEd61Af7ua88vmw" additionallyPerformedBy="_EBlz13_nEd61Af7ua88vmw" performedPrimarilyBy="_EBlz1n_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nanrsWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_yBKj8HlGEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EBlz0X_nEd61Af7ua88vmw" name="2_definir_escopo" guid="_EBlz0X_nEd61Af7ua88vmw" presentationName="Definir Escopo do Problema" briefDescription="Com o problema entendido, o seu escopo é definido. Esse escopo define o trabalho necessário para concluir o projeto, servindo como um guia (ou ponto de referência) para determinar que trabalho não está incluído ou não é necessário) no projeto. Ou seja, após sua definição, sabe-se o que está dentro e o que está fora do projeto, de maneira clara e sem ambiguidades." superActivities="_b8XAUX_mEd61Af7ua88vmw" performedPrimarilyBy="_EBlz13_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nanrsmr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_MxAqsHlHEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EBlz0n_nEd61Af7ua88vmw" name="3_definir_funcionalidades" guid="_EBlz0n_nEd61Af7ua88vmw" presentationName="Definir Funcionalidades e as Restrições do Sistema" briefDescription="Dentro do escopo delimitado, são definidas as funcionalidades e restrições do sistema." superActivities="_b8XAUX_mEd61Af7ua88vmw" linkToPredecessor="_QKplcX_pEd61Af7ua88vmw" performedPrimarilyBy="_EBlz13_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nanrs2r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_QkyeUHlHEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EBlz03_nEd61Af7ua88vmw" name="4_dividir_em_cdus" guid="_EBlz03_nEd61Af7ua88vmw" presentationName="Dividir o Problema em Casos de Uso" briefDescription="Após a definição das funcionalidades do sistema, estas são divididas em Casos de Uso. Esta atividade co-relaciona-se com a atividade de análise e projeto onde é construído o modelo de casos de uso." superActivities="_b8XAUX_mEd61Af7ua88vmw" linkToPredecessor="_QpVskH_pEd61Af7ua88vmw" output="_EBvk0H_nEd61Af7ua88vmw" performedPrimarilyBy="_EBlz13_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nanrtGr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_VHEWsHlHEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EBlz1H_nEd61Af7ua88vmw" name="5_classificar_cdus" guid="_EBlz1H_nEd61Af7ua88vmw" presentationName="Classificar Casos de Uso por Módulo de Sistema " briefDescription="Os casos de uso são classificados associoandos com as funcinalidades do sistema." superActivities="_b8XAUX_mEd61Af7ua88vmw" linkToPredecessor="_ROmVwH_pEd61Af7ua88vmw" performedPrimarilyBy="_EBlz13_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nanrtWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_Y5EBoHlHEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EBlz1X_nEd61Af7ua88vmw" name="6_descrever_cdus" guid="_EBlz1X_nEd61Af7ua88vmw" presentationName="Descrever Brevemente Casos de Uso" briefDescription="Após a classificação quanto a funcionalidade, descreve-se brevemente os casos de uso, identificando os atores que o executam." superActivities="_b8XAUX_mEd61Af7ua88vmw" linkToPredecessor="_R5XKAX_pEd61Af7ua88vmw" output="_EBvk0H_nEd61Af7ua88vmw _EBvk0X_nEd61Af7ua88vmw" performedPrimarilyBy="_EBlz13_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nanrtmr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_c6ZwIHlHEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_EBlz1n_nEd61Af7ua88vmw" name="stakeholders" guid="_EBlz1n_nEd61Af7ua88vmw" presentationName="Stakeholders" briefDescription="Esse papel pode ser definido como qualquer pessoa que é afetada em termos materiais pelos resultados do projeto." isPlanned="false" superActivities="_b8XAUX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nanrt2r4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nanruGr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-CjcEtx8TWb-YsPi6t2QK8w" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-CjcEtx8TWb-YsPi6t2QK8w"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_OlqUAXmbEd6IMtncZulwRw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_EBlz13_nEd61Af7ua88vmw" name="analista" guid="_EBlz13_nEd61Af7ua88vmw" presentationName="Analista" briefDescription="O Analista lidera e coordena a identificação de requisitos e a modelagem de casos de uso, delimitando o sistema e definindo sua funcionalidade, estabelecendo, por exemplo, quais são os atores e casos de uso existentes e como eles interagem." isPlanned="false" superActivities="_b8XAUX_mEd61Af7ua88vmw" modifies="_EBvk0H_nEd61Af7ua88vmw _EBvk0X_nEd61Af7ua88vmw" responsibleFor="_EBvk0X_nEd61Af7ua88vmw _EBvk0H_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoSwGr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naoSwWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_1hmzUH7BEd6MaYaawFYtMQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_EBvk0H_nEd61Af7ua88vmw" name="diagrama_geral_cdus" guid="_EBvk0H_nEd61Af7ua88vmw" presentationName="Diagrama Geral de Casos de Uso (UML)" briefDescription="O Diagrama Geral de Casos de Uso é a representação ilustrada das funcionalidades do sistema e os atores que as executam. Esse diagrama fornece uma visão geral das funcionalidades do sistema que serão detalhadas e implementadas." isPlanned="false" superActivities="_b8XAUX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoSwmr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naoSw2r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_GAiGIHucEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53kXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_EBvk0X_nEd61Af7ua88vmw" name="doc_visao" guid="_EBvk0X_nEd61Af7ua88vmw" presentationName="Documento de Visão" briefDescription="O Documento de visão oferece uma visão inicial do sistema. Esse documento deve ter a definição do escopo do sistema, as funcionalidades e restrições do sistema, o diagrama geral de casos de uso e a relação entre os casos de uso e funcionalidades. São informados, também, o cliente e os atores do sistema." isPlanned="false" superActivities="_b8XAUX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoSxGr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naoSxWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <templates href="uma://_PNdygHc4Ed6LBuiIOANIVw#_YUjskHubEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53lnpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_QKplcX_pEd61Af7ua88vmw" guid="_QKplcX_pEd61Af7ua88vmw" pred="_EBlz0X_nEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_QpVskH_pEd61Af7ua88vmw" guid="_QpVskH_pEd61Af7ua88vmw" pred="_EBlz0n_nEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ROmVwH_pEd61Af7ua88vmw" guid="_ROmVwH_pEd61Af7ua88vmw" pred="_EBlz03_nEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_R5XKAX_pEd61Af7ua88vmw" guid="_R5XKAX_pEd61Af7ua88vmw" pred="_EBlz1H_nEd61Af7ua88vmw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_dVxDQH_mEd61Af7ua88vmw" name="analise_projeto_concepcao" guid="_dVxDQH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_dVxDQX_mEd61Af7ua88vmw" name="analise_projeto_concepcao" guid="_dVxDQX_mEd61Af7ua88vmw" presentationName="Análise e Projeto Concepção" briefDescription="Grande parte do esforc¸o da fase de concepção para definir uma arquitetura candidata concentra-se na disciplina de análise e projeto. Ela se inicia com a análise do ambiente físico e computacional e das restrições citadas pelo cliente, e é finalizada com a definição da arquitetura candidata." superActivities="_Ecp0oX_mEd62TNYWta-H0w" linkToPredecessor="_qRiwwDm8EeSQFudhAXKiDQ" breakdownElements="_GzhI4n_nEd61Af7ua88vmw _GzhI6H_nEd61Af7ua88vmw">
+          <presentation xmi:id="-7EVz_X7iRNL__hjHOVMjtQ" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-7EVz_X7iRNL__hjHOVMjtQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_GzhI4n_nEd61Af7ua88vmw" name="7_analisar_mod_cdu" guid="_GzhI4n_nEd61Af7ua88vmw" presentationName="Analisar Modelo de Caso de Uso" briefDescription="Essa atividade tem por objetivo verificar alguma possível incompatibilidade entre o modelo de casos de uso e as necessidades do cliente. Caso alguma incompatibilidade seja encontrada, ajusta-se o modelo de casos de uso." superActivities="_dVxDQX_mEd61Af7ua88vmw" linkToPredecessor="__L8MIX_pEd61Af7ua88vmw __MFWEH_pEd61Af7ua88vmw" mandatoryInput="_GzhI6H_nEd61Af7ua88vmw" output="_GzhI6H_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoSxmr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_Hypy8HlKEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_GzhI6H_nEd61Af7ua88vmw" name="diagrama_geral_cdus" guid="_GzhI6H_nEd61Af7ua88vmw" presentationName="Diagrama Geral de Casos de Uso (UML)" briefDescription="O Diagrama Geral de Casos de Uso é a representação ilustrada das funcionalidades do sistema e os atores que as executam. Esse diagrama fornece uma visão geral das funcionalidades do sistema que serão detalhadas e implementadas." isPlanned="false" superActivities="_dVxDQX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoSx2r4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naoSyGr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_GAiGIHucEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53kXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="__L8MIX_pEd61Af7ua88vmw" guid="__L8MIX_pEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="__MFWEH_pEd61Af7ua88vmw" guid="__MFWEH_pEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_z4ycoDbvEeSk0K6nPOXZgA" guid="_z4ycoDbvEeSk0K6nPOXZgA" pred="_GzhI4n_nEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_qRiwwDm8EeSQFudhAXKiDQ" guid="_qRiwwDm8EeSQFudhAXKiDQ" pred="_b8XAUX_mEd61Af7ua88vmw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_lnzK4H_mEd61Af7ua88vmw" name="impl_testes_concepcao" guid="_lnzK4H_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_lnzK4X_mEd61Af7ua88vmw" name="impl_testes_concepcao" guid="_lnzK4X_mEd61Af7ua88vmw" presentationName="Implementação Concepção" briefDescription="O objetivo da implementação e teste na fase de concepção é a confecção do protótipo das principais telas do sistema. " superActivities="_Ecp0oX_mEd62TNYWta-H0w" linkToPredecessor="_xg6eEIF_Ed6RtNSRxv_fag" breakdownElements="_If81gn_nEd61Af7ua88vmw _If81g3_nEd61Af7ua88vmw _If81hH_nEd61Af7ua88vmw">
+          <presentation xmi:id="-GST0GvsxIFnfIma3QuxJIw" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-GST0GvsxIFnfIma3QuxJIw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_If81gn_nEd61Af7ua88vmw" name="10_confeccionar_prototipo" guid="_If81gn_nEd61Af7ua88vmw" presentationName="Confeccionar um Protótipo contendo as Telas Iniciais do Novo Sistema" briefDescription="A partir das telas capturadas (em caso de sistema legado) ou da coleta das necessidades de usabilidade do cliente, deve-se confeccionar o protótipo da interface de usuário." superActivities="_lnzK4X_mEd61Af7ua88vmw" linkToPredecessor="_-QQxkH_qEd61Af7ua88vmw" output="_If81hH_nEd61Af7ua88vmw" performedPrimarilyBy="_If81g3_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoSyWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_zcPzIHlMEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_If81g3_nEd61Af7ua88vmw" name="designer" guid="_If81g3_nEd61Af7ua88vmw" presentationName="Designer" briefDescription="O Designer é o papel responsável por definir a interface gráfica do sistema, de acordo com as necessidades e preferências do usuário, buscando seguir princípios fundamentais de funcionalidade e usabilidade." isPlanned="false" superActivities="_lnzK4X_mEd61Af7ua88vmw" modifies="_If81hH_nEd61Af7ua88vmw" responsibleFor="_If81hH_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoSymr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naoSy2r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-8XhNrv_ZeqmMUHCoP57_3g" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-8XhNrv_ZeqmMUHCoP57_3g"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_9f0nEH7BEd6MaYaawFYtMQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_If81hH_nEd61Af7ua88vmw" name="prototipo_de_telas" guid="_If81hH_nEd61Af7ua88vmw" presentationName="Protótipos de Telas" briefDescription="Os protótipos de tela consistem em imagens que descrevem a interface  com o usuário do sistema, com o  propósito de fornecer ao cliente uma visão de como ele irá interagir com o sistema." isPlanned="false" superActivities="_lnzK4X_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoSzGr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naoSzWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53mXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_-QQxkH_qEd61Af7ua88vmw" guid="_-QQxkH_qEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_xg6eEIF_Ed6RtNSRxv_fag" guid="_xg6eEIF_Ed6RtNSRxv_fag" pred="_dVxDQX_mEd61Af7ua88vmw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_nrh9MH_mEd61Af7ua88vmw" name="gerencia_concepcao" guid="_nrh9MH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_nrh9MX_mEd61Af7ua88vmw" name="gerencia_concepcao" guid="_nrh9MX_mEd61Af7ua88vmw" presentationName="Liderança de Processo Concepção" briefDescription="Na fase de concepção, a disciplina de Planejamento e Gerência é uma das que consome mais tempo. A principal preocupação do Gerente tem que ser criar um plano que seja bem real, com menor taxa de falhas na medida do possível." superActivities="_Ecp0oX_mEd62TNYWta-H0w" breakdownElements="_LsMvGn_nEd61Af7ua88vmw _LsMvHn_nEd61Af7ua88vmw _LsMvH3_nEd61Af7ua88vmw _LsMvI3_nEd61Af7ua88vmw _LsMvJX_nEd61Af7ua88vmw _LsMvKX_nEd61Af7ua88vmw _5HEGEDb0EeSk0K6nPOXZgA _InN-4WeVEeSgJ8kv7-hjMg">
+          <presentation xmi:id="-FK5ti_FPgIk-WRgBdNpTUQ" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-FK5ti_FPgIk-WRgBdNpTUQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_LsMvGn_nEd61Af7ua88vmw" name="12_apresentar_artefatos" guid="_LsMvGn_nEd61Af7ua88vmw" presentationName="Apresentar Artefatos ao Cliente" briefDescription="Os artefatos gerados durante a fase de Concepção são, nessa atividade, apresentados ao cliente." superActivities="_nrh9MX_mEd61Af7ua88vmw" linkToPredecessor="_ESaPUH_tEd61Af7ua88vmw _ESfH0H_tEd61Af7ua88vmw _lstj0GeUEeSgJ8kv7-hjMg" mandatoryInput="_LsMvJX_nEd61Af7ua88vmw _LsMvI3_nEd61Af7ua88vmw _LsMvKX_nEd61Af7ua88vmw" performedPrimarilyBy="_LsMvH3_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoSzmr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_ucgRqn-tEd62TNYWta-H0w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_LsMvHn_nEd61Af7ua88vmw" name="15_desenvolver_plan_iteracao" guid="_LsMvHn_nEd61Af7ua88vmw" presentationName="Desenvolver Plano de Iteração " briefDescription="A partir das iterações definidas no Plano de Desenvolvimento de Software, elabora-se o Plano de Iteração para a próxima iteração do desenvolvimento." superActivities="_nrh9MX_mEd61Af7ua88vmw" linkToPredecessor="_X-G94H_tEd61Af7ua88vmw _QcU58GeVEeSgJ8kv7-hjMg" mandatoryInput="_LsMvJX_nEd61Af7ua88vmw _LsMvI3_nEd61Af7ua88vmw" performedPrimarilyBy="_LsMvH3_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoSz2r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-w0dwW4vP7SPg04587EjRlA" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-w0dwW4vP7SPg04587EjRlA"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_ucgRrn-tEd62TNYWta-H0w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_LsMvH3_nEd61Af7ua88vmw" name="lider" guid="_LsMvH3_nEd61Af7ua88vmw" presentationName="Lider de Projetos" briefDescription="O Lider é o papel que aloca recursos, ajusta as prioridades, coordena interações com clientes e usuários e busca manter a equipe concentrada em atingir os objetivos do projeto." isPlanned="false" superActivities="_nrh9MX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoS0Gr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naoS0Wr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-xxeb8Nk_MfXImFmUoSpJbQ" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-xxeb8Nk_MfXImFmUoSpJbQ"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_OlqUAnmbEd6IMtncZulwRw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_LsMvI3_nEd61Af7ua88vmw" name="doc_visao" guid="_LsMvI3_nEd61Af7ua88vmw" presentationName="Documento de Visão" briefDescription="O Documento de visão oferece uma visão inicial do sistema. Esse documento deve ter a definição do escopo do sistema, as funcionalidades e restrições do sistema, o diagrama geral de casos de uso e a relação entre os casos de uso e funcionalidades. São informados, também, o cliente e os atores do sistema." isPlanned="false" superActivities="_nrh9MX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoS0mr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naoS02r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <templates href="uma://_PNdygHc4Ed6LBuiIOANIVw#_YUjskHubEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53lnpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_LsMvJX_nEd61Af7ua88vmw" name="diagrama_geral_cdus" guid="_LsMvJX_nEd61Af7ua88vmw" presentationName="Diagrama Geral de Casos de Uso (UML)" briefDescription="O Diagrama Geral de Casos de Uso é a representação ilustrada das funcionalidades do sistema e os atores que as executam. Esse diagrama fornece uma visão geral das funcionalidades do sistema que serão detalhadas e implementadas." isPlanned="false" superActivities="_nrh9MX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoS1Gr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naoS1Wr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_GAiGIHucEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53kXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_LsMvKX_nEd61Af7ua88vmw" name="prototipo_de_telas" guid="_LsMvKX_nEd61Af7ua88vmw" presentationName="Protótipos de Telas" briefDescription="Os protótipos de tela consistem em imagens que descrevem a interface  com o usuário do sistema, com o  propósito de fornecer ao cliente uma visão de como ele irá interagir com o sistema." isPlanned="false" superActivities="_nrh9MX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naoS1mr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naoS12r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53mXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_0Wj2oH_sEd61Af7ua88vmw" guid="_0Wj2oH_sEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_07V-sH_sEd61Af7ua88vmw" guid="_07V-sH_sEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_1aYEEH_sEd61Af7ua88vmw" guid="_1aYEEH_sEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_1_va8H_sEd61Af7ua88vmw" guid="_1_va8H_sEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_2cQ-4H_sEd61Af7ua88vmw" guid="_2cQ-4H_sEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_6snZwH_sEd61Af7ua88vmw" guid="_6snZwH_sEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_7pkKMH_sEd61Af7ua88vmw" guid="_7pkKMH_sEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_8cDXEH_sEd61Af7ua88vmw" guid="_8cDXEH_sEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ESaPUH_tEd61Af7ua88vmw" guid="_ESaPUH_tEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ESfH0H_tEd61Af7ua88vmw" guid="_ESfH0H_tEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_FWSuMH_tEd61Af7ua88vmw" guid="_FWSuMH_tEd61Af7ua88vmw" pred="_LsMvGn_nEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_X-G94H_tEd61Af7ua88vmw" guid="_X-G94H_tEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Yc8rMDbyEeSk0K6nPOXZgA" guid="_Yc8rMDbyEeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_5HEGEDb0EeSk0K6nPOXZgA" name="Planejar Reuniões Diárias com Equipe do Projeto" guid="_5HEGEDb0EeSk0K6nPOXZgA" presentationName="Planejar Reuniões  para equipe" superActivities="_nrh9MX_mEd61Af7ua88vmw" isSynchronizedWithSource="false"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_lstj0GeUEeSgJ8kv7-hjMg" guid="_lstj0GeUEeSgJ8kv7-hjMg" pred="_LsMvHn_nEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_InN-4WeVEeSgJ8kv7-hjMg" name="New Task Descriptor" guid="_InN-4WeVEeSgJ8kv7-hjMg" presentationName="Executar reunião com equipe" superActivities="_nrh9MX_mEd61Af7ua88vmw" linkToPredecessor="_O3axoGeVEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_O3axoGeVEeSgJ8kv7-hjMg" guid="_O3axoGeVEeSgJ8kv7-hjMg" pred="_5HEGEDb0EeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_QcU58GeVEeSgJ8kv7-hjMg" guid="_QcU58GeVEeSgJ8kv7-hjMg" pred="_InN-4WeVEeSgJ8kv7-hjMg"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_Ecp0oX_mEd62TNYWta-H0w" name="Concepção" guid="_Ecp0oX_mEd62TNYWta-H0w" presentationName="Concepção" briefDescription="A fase de concepção busca uma visão inicial para se trabalhar o sistema, deixando como resultado, a clara visualização do sistema a ser desenvolvido (seu escopo, seus principais requisitose desejos do cliente). Todas as atividades desenvolvidas nesta fase têm este fim, e para tanto necessitam da participação ativa do cliente. Trata-se de uma fase marcada por reuniões e discussões onde inicialmente o cliente apresenta sua visão do sistema, e num segundo momento os projetistas apresentam a visão que puderam capturar do mesmo." superActivities="_f7tAMX_lEd62TNYWta-H0w" breakdownElements="_b8XAUX_mEd61Af7ua88vmw _dVxDQX_mEd61Af7ua88vmw _lnzK4X_mEd61Af7ua88vmw _nrh9MX_mEd61Af7ua88vmw">
+        <presentation xmi:id="-yTthkNmcS3PLnwH8q9KObA" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-yTthkNmcS3PLnwH8q9KObA"/>
+      </processElements>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_FzrR8H_mEd62TNYWta-H0w" name="Elaboração" guid="_FzrR8H_mEd62TNYWta-H0w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_qmPa0H_mEd61Af7ua88vmw" name="requisitos_elaboracao" guid="_qmPa0H_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_qmPa0X_mEd61Af7ua88vmw" name="requisitos_elaboracao" guid="_qmPa0X_mEd61Af7ua88vmw" presentationName="Requisitos Elaboração" briefDescription="O foco da Disciplina de Requisitos na Fase de Elaboração é o detalhamento inicial dos prováveis casos de uso que poderão ser utilizados para validar a arquitetura." superActivities="_FzrR8X_mEd62TNYWta-H0w" breakdownElements="_kF1zcX_nEd61Af7ua88vmw _kF1zc3_nEd61Af7ua88vmw _kF1zdH_nEd61Af7ua88vmw _kF1zdn_nEd61Af7ua88vmw _kF1zen_nEd61Af7ua88vmw _kF-9YH_nEd61Af7ua88vmw _kF-9Yn_nEd61Af7ua88vmw _kF-9Y3_nEd61Af7ua88vmw _6dHgkGeoEeScaqUFk8I-XQ">
+          <presentation xmi:id="-8Qma60ZWIsDt-pzwJme9Nw" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-8Qma60ZWIsDt-pzwJme9Nw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_kF1zcX_nEd61Af7ua88vmw" name="2_Implementar_cdu_escolhido" guid="_kF1zcX_nEd61Af7ua88vmw" presentationName="Iniciar implementação do Caso de Uso Escolhido " briefDescription="Após escolhidos os casos de uso, é realizado a implementação . A partir do  Documento de Especificação de Caso de Uso, que contém as informações necessárias será implementado para validar a arquitetura proposta." superActivities="_qmPa0X_mEd61Af7ua88vmw" linkToPredecessor="_O8IKkH_uEd61Af7ua88vmw _9KzO0GeoEeScaqUFk8I-XQ" mandatoryInput="_kF-9YH_nEd61Af7ua88vmw _kF-9Yn_nEd61Af7ua88vmw" output="_kF-9Y3_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao50Gr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_JkqJ0HlPEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_kF1zc3_nEd61Af7ua88vmw" name="4_identificar_mudancas_requisitos" guid="_kF1zc3_nEd61Af7ua88vmw" presentationName="Identificar Mudanças nos Requisitos" briefDescription="Após detalhar o caso de uso, é feita uma revisão nos requisitos, o que pode ocasionar necessidade de alterações nos requisitos." superActivities="_qmPa0X_mEd61Af7ua88vmw" additionallyPerformedBy="_kF1zen_nEd61Af7ua88vmw" mandatoryInput="_kF-9Y3_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao50Wr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-Rzd7zN5JxTXqBXcasn_dcA" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-Rzd7zN5JxTXqBXcasn_dcA"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_Xw4_AHlPEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_kF1zdH_nEd61Af7ua88vmw" name="5_atualizar_diagramas_cdus_classes" guid="_kF1zdH_nEd61Af7ua88vmw" presentationName="Atualizar Diagrama de Casos de Uso e de Classes" briefDescription="Se houver mudanças de requisitos após a atividade anterior, que acarrete a necessidade de surgimento de novo caso de uso, o mesmo é acrescentado ao diagrama geral de casos de uso, isso vale para o digrama de classe do sistema também." superActivities="_qmPa0X_mEd61Af7ua88vmw" mandatoryInput="_kF-9YH_nEd61Af7ua88vmw" output="_kF-9YH_nEd61Af7ua88vmw" performedPrimarilyBy="_kF1zen_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao50mr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-PoROxf8wl8AsbYWqGiLmWg" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-PoROxf8wl8AsbYWqGiLmWg"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_7aG6MHlPEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_kF1zdn_nEd61Af7ua88vmw" name="10_realizar_analise_e_projeto" guid="_kF1zdn_nEd61Af7ua88vmw" presentationName="Realizar Análise e Projeto" briefDescription="Concluídas todas as atividades desse fluxo, dá-se início à disciplina de análise e projeto." superActivities="_qmPa0X_mEd61Af7ua88vmw" mandatoryInput="_kF-9Y3_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao502r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-sWqERMh18hVsOqhWGd-vmw" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-sWqERMh18hVsOqhWGd-vmw"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_N5QWEHlQEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_kF1zen_nEd61Af7ua88vmw" name="analista" guid="_kF1zen_nEd61Af7ua88vmw" presentationName="Analista" briefDescription="O Analista lidera e coordena a identificação de requisitos e a modelagem de casos de uso, delimitando o sistema e definindo sua funcionalidade, estabelecendo, por exemplo, quais são os atores e casos de uso existentes e como eles interagem." isPlanned="false" superActivities="_qmPa0X_mEd61Af7ua88vmw" modifies="_kF-9YH_nEd61Af7ua88vmw" responsibleFor="_kF-9Yn_nEd61Af7ua88vmw _kF-9YH_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao51Gr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nao51Wr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_1hmzUH7BEd6MaYaawFYtMQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_kF-9YH_nEd61Af7ua88vmw" name="diagrama_geral_cdus" guid="_kF-9YH_nEd61Af7ua88vmw" presentationName="Diagrama Geral de Casos de Uso (UML)" briefDescription="O Diagrama Geral de Casos de Uso é a representação ilustrada das funcionalidades do sistema e os atores que as executam. Esse diagrama fornece uma visão geral das funcionalidades do sistema que serão detalhadas e implementadas." isPlanned="false" superActivities="_qmPa0X_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao51mr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nao512r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_GAiGIHucEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53kXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_kF-9Yn_nEd61Af7ua88vmw" name="doc_visao" guid="_kF-9Yn_nEd61Af7ua88vmw" presentationName="Documento de Visão" briefDescription="O Documento de visão oferece uma visão inicial do sistema. Esse documento deve ter a definição do escopo do sistema, as funcionalidades e restrições do sistema, o diagrama geral de casos de uso e a relação entre os casos de uso e funcionalidades. São informados, também, o cliente e os atores do sistema." isPlanned="false" superActivities="_qmPa0X_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao52Gr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nao52Wr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <templates href="uma://_PNdygHc4Ed6LBuiIOANIVw#_YUjskHubEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53lnpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_kF-9Y3_nEd61Af7ua88vmw" name="especificacao_cdu" guid="_kF-9Y3_nEd61Af7ua88vmw" presentationName="Especificação de Caso de Uso" briefDescription="O Documento de Especificação de Caso de Uso fornece um detalhamento completo do caso de uso, que serve como orientação para a sua implementação. Esse detalhamento inclui as pré-condições, pós-condições, os fluxos principais, alternativos e de exceção, além dos diagramas de domínio, de classes de projeto e de interação de objetos. Na especificação são, também, apresentados os atores que executam a funcionalidade do caso de uso. &#xD;&#xA;&#xD;&#xA;" isPlanned="false" superActivities="_qmPa0X_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao52mr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nao522r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <templates href="uma://_PNdygHc4Ed6LBuiIOANIVw#_c2YR8HubEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bI4FQnpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_O8IKkH_uEd61Af7ua88vmw" guid="_O8IKkH_uEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_8t64QH_uEd61Af7ua88vmw" guid="_8t64QH_uEd61Af7ua88vmw" pred="_kF1zdH_nEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_6dHgkGeoEeScaqUFk8I-XQ" name="New Task Descriptor" guid="_6dHgkGeoEeScaqUFk8I-XQ" presentationName="Escolher caso de uso" superActivities="_qmPa0X_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_9KzO0GeoEeScaqUFk8I-XQ" guid="_9KzO0GeoEeScaqUFk8I-XQ" pred="_6dHgkGeoEeScaqUFk8I-XQ"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_sJ7bIH_mEd61Af7ua88vmw" name="analise_projeto_elaboracao" guid="_sJ7bIH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_sJ7bIX_mEd61Af7ua88vmw" name="analise_projeto_elaboracao" guid="_sJ7bIX_mEd61Af7ua88vmw" presentationName="Análise e Projeto Elaboração" briefDescription="A disciplina de Análise e Projeto desempenha um papel importante para que o objetivo da fase de Elaboração seja atingido. Ela é quem dá forma ao domínio do sistema, gerando um modelo conceitual orientado pelos casos de uso. Modelos estáticos e dinâmicos são formulados e servirão como base para a implementação." superActivities="_FzrR8X_mEd62TNYWta-H0w" linkToPredecessor="_IFv5wIF8Ed6TxI46WhMwMg" breakdownElements="_pJyOdn_nEd61Af7ua88vmw _pJyOeH_nEd61Af7ua88vmw _pJyOf3_nEd61Af7ua88vmw _pJyOg3_nEd61Af7ua88vmw _pJyOhH_nEd61Af7ua88vmw _pJyOhX_nEd61Af7ua88vmw _pJyOhn_nEd61Af7ua88vmw _acgZETb7EeSk0K6nPOXZgA _zkgYQDb7EeSk0K6nPOXZgA">
+          <presentation xmi:id="-fGjbuuQCWswKkUEKZzWVbw" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-fGjbuuQCWswKkUEKZzWVbw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_pJyOdn_nEd61Af7ua88vmw" name="7_elaborar_diagrama_de_interacao" guid="_pJyOdn_nEd61Af7ua88vmw" presentationName="Elaborar Diagrama de Interação de Objetos" briefDescription="Após identificados os conceitos e operações do Caso de Uso selecionado, procede-se à elaboração do diagrama de interação de objetos do mesmo." superActivities="_sJ7bIX_mEd61Af7ua88vmw" linkToPredecessor="_kxwIIH_wEd61Af7ua88vmw _kx1AoH_wEd61Af7ua88vmw _ApG3ADb8EeSk0K6nPOXZgA" mandatoryInput="_pJyOg3_nEd61Af7ua88vmw" output="_pJyOhH_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao53Gr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-2WxXIhuYs9eIBAPUO3xeAA" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-2WxXIhuYs9eIBAPUO3xeAA"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_fLX-IHlQEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_pJyOeH_nEd61Af7ua88vmw" name="11_implementar_cdu" guid="_pJyOeH_nEd61Af7ua88vmw" presentationName="Realizar a Disciplina de Implementação para o Caso de Uso Selecionado da SPRINT" briefDescription="Realiza-se Implementação do Caso de Uso detalhado para a SPRINT." superActivities="_sJ7bIX_mEd61Af7ua88vmw" linkToPredecessor="_nQ_xwH_wEd61Af7ua88vmw _EK6pgDb_EeSk0K6nPOXZgA" mandatoryInput="_pJyOhX_nEd61Af7ua88vmw _pJyOhH_nEd61Af7ua88vmw _pJyOg3_nEd61Af7ua88vmw" output="_pJyOhn_nEd61Af7ua88vmw" performedPrimarilyBy="_pJyOf3_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao53Wr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_oV4l4HlQEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_pJyOf3_nEd61Af7ua88vmw" name="implementador_" guid="_pJyOf3_nEd61Af7ua88vmw" presentationName="Implementador" briefDescription="O Implementador é responsável por desenvolver e testar componentes de acordo com os padrões  adotados para o projeto, para fins de integração com subsistemas maiores. " isPlanned="false" superActivities="_sJ7bIX_mEd61Af7ua88vmw" modifies="_pJyOhn_nEd61Af7ua88vmw" responsibleFor="_pJyOhn_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao53mr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nao532r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-eO-4c1BjYjFRo9pVlscDRA" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-eO-4c1BjYjFRo9pVlscDRA"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_3b8ZEH7BEd6MaYaawFYtMQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_pJyOg3_nEd61Af7ua88vmw" name="especificacao_cdu" guid="_pJyOg3_nEd61Af7ua88vmw" presentationName="Especificação de Caso de Uso" briefDescription="O Documento de Especificação de Caso de Uso fornece um detalhamento completo do caso de uso, que serve como orientação para a sua implementação. Esse detalhamento inclui as pré-condições, pós-condições, os fluxos principais, alternativos e de exceção, além dos diagramas de domínio, de classes de projeto e de interação de objetos. Na especificação são, também, apresentados os atores que executam a funcionalidade do caso de uso. &#xD;&#xA;&#xD;&#xA;" isPlanned="false" superActivities="_sJ7bIX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao54Gr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nao54Wr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <templates href="uma://_PNdygHc4Ed6LBuiIOANIVw#_c2YR8HubEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bI4FQnpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_pJyOhH_nEd61Af7ua88vmw" name="diagrama_interacao" guid="_pJyOhH_nEd61Af7ua88vmw" presentationName="Diagrama de Interação de Objetos (UML) para o (s) Caso (s) de Uso (s) Implementado (s)" briefDescription="O Diagrama de Interação de Objetos ilustra as interações entre os objetos em uma determinada funcionalidade. Ele é imprescindível para a compreensão dessas interações e deve estar anexado ao Dumento de Especifcação de Caso de Uso do caso de uso ao quel se refere." isPlanned="false" superActivities="_sJ7bIX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao54mr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nao542r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_66YwwHueEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bI4FQHpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_pJyOhX_nEd61Af7ua88vmw" name="diagrama_de_classes" guid="_pJyOhX_nEd61Af7ua88vmw" presentationName="Diagrama de Classes de Projeto (UML)" briefDescription="O Diagrama de Classes de Projeto é a representação ilustrada das classes que serão implementadas no projeto, com seus atributos, relacionamentos e operações." isPlanned="false" superActivities="_sJ7bIX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao55Gr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nao55Wr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_Zi8gYHudEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bIu7UXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_pJyOhn_nEd61Af7ua88vmw" name="codigos_fontes" guid="_pJyOhn_nEd61Af7ua88vmw" presentationName="Códigos Fontes" briefDescription="Os códigos Fontes são a codificação dos casos de uso implementados em uma linguagem de programação específica. O código fonte do que foi implementado é disponibilizado no repositório de códigos para acesso de todos os participantes do projeto." isPlanned="false" superActivities="_sJ7bIX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nao55mr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nao552r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bIu7UHpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_HlYUkH_wEd61Af7ua88vmw" guid="_HlYUkH_wEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ebfJoH_wEd61Af7ua88vmw" guid="_ebfJoH_wEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_fB0w4H_wEd61Af7ua88vmw" guid="_fB0w4H_wEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_gZK-UH_wEd61Af7ua88vmw" guid="_gZK-UH_wEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kxwIIH_wEd61Af7ua88vmw" guid="_kxwIIH_wEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_kx1AoH_wEd61Af7ua88vmw" guid="_kx1AoH_wEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_lnVFQH_wEd61Af7ua88vmw" guid="_lnVFQH_wEd61Af7ua88vmw" pred="_pJyOdn_nEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_nQ_xwH_wEd61Af7ua88vmw" guid="_nQ_xwH_wEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_KAPYAH_xEd61Af7ua88vmw" guid="_KAPYAH_xEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_IFv5wIF8Ed6TxI46WhMwMg" guid="_IFv5wIF8Ed6TxI46WhMwMg" pred="_qmPa0X_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_acgZETb7EeSk0K6nPOXZgA" name="New Task Descriptor" guid="_acgZETb7EeSk0K6nPOXZgA" presentationName="Escolher Casos de Usos" superActivities="_sJ7bIX_mEd61Af7ua88vmw" linkToPredecessor="_7W59kDb7EeSk0K6nPOXZgA _LexRoTb_EeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zkgYQDb7EeSk0K6nPOXZgA" name="New Task Descriptor_2" guid="_zkgYQDb7EeSk0K6nPOXZgA" presentationName="Iniciar o Detalhamento dos Casos de Usos" superActivities="_sJ7bIX_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_7W59kDb7EeSk0K6nPOXZgA" guid="_7W59kDb7EeSk0K6nPOXZgA" pred="_zkgYQDb7EeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ApG3ADb8EeSk0K6nPOXZgA" guid="_ApG3ADb8EeSk0K6nPOXZgA" pred="_acgZETb7EeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_EK6pgDb_EeSk0K6nPOXZgA" guid="_EK6pgDb_EeSk0K6nPOXZgA" pred="_pJyOdn_nEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_LexRoTb_EeSk0K6nPOXZgA" guid="_LexRoTb_EeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_SocDADb_EeSk0K6nPOXZgA" guid="_SocDADb_EeSk0K6nPOXZgA"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_tzuqgH_mEd61Af7ua88vmw" name="impl_testes_elaboracao" guid="_tzuqgH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_tzuqgX_mEd61Af7ua88vmw" name="impl_testes_elaboracao" guid="_tzuqgX_mEd61Af7ua88vmw" presentationName="Implementação Elaboração" briefDescription="Nas disciplinas anteriores, o caso de uso que justifica toda a Arquitetura foi detalhado, analisado e projetado. Cabe agora a implementação e teste do mesmo. Ao final dessa disciplina, o caso de uso deverá ter sido construído seguindo a arquitetura planejada no documento de arquitetura." superActivities="_FzrR8X_mEd62TNYWta-H0w" linkToPredecessor="_ImiSoIF8Ed6TxI46WhMwMg" breakdownElements="_6JnHMDb_EeSk0K6nPOXZgA _ZVMZcDcAEeSk0K6nPOXZgA _qc46MDcAEeSk0K6nPOXZgA _5SLTcDcAEeSk0K6nPOXZgA">
+          <presentation xmi:id="-6ZIV8aQVwIRDM6hCE1AuKw" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-6ZIV8aQVwIRDM6hCE1AuKw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_HhBHEH_yEd61Af7ua88vmw" guid="_HhBHEH_yEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_QXjC4H_yEd61Af7ua88vmw" guid="_QXjC4H_yEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Q4B5wH_yEd61Af7ua88vmw" guid="_Q4B5wH_yEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_RaNZwH_yEd61Af7ua88vmw" guid="_RaNZwH_yEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_ImiSoIF8Ed6TxI46WhMwMg" guid="_ImiSoIF8Ed6TxI46WhMwMg" pred="_sJ7bIX_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_6JnHMDb_EeSk0K6nPOXZgA" name="New Task Descriptor" guid="_6JnHMDb_EeSk0K6nPOXZgA" presentationName="Iniciar implementação do (s) Caso (s) de Uso Escolhido (s)" superActivities="_tzuqgX_mEd61Af7ua88vmw" linkToPredecessor="_D-QboTcBEeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_ZVMZcDcAEeSk0K6nPOXZgA" name="New Task Descriptor_2" guid="_ZVMZcDcAEeSk0K6nPOXZgA" presentationName="Escolher Casos de Uso " superActivities="_tzuqgX_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_qc46MDcAEeSk0K6nPOXZgA" name="New Task Descriptor_3" guid="_qc46MDcAEeSk0K6nPOXZgA" presentationName="Realizar a Disciplina de Implementação para o Caso de Uso Selecionado da SPRINT" superActivities="_tzuqgX_mEd61Af7ua88vmw" linkToPredecessor="_7qbkQDcAEeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_5SLTcDcAEeSk0K6nPOXZgA" name="New Task Descriptor_4" guid="_5SLTcDcAEeSk0K6nPOXZgA" presentationName="Executar Implementação do Projeto" superActivities="_tzuqgX_mEd61Af7ua88vmw" linkToPredecessor="_Ff7CsTcBEeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_7qbkQDcAEeSk0K6nPOXZgA" guid="_7qbkQDcAEeSk0K6nPOXZgA" pred="_ZVMZcDcAEeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_D-QboTcBEeSk0K6nPOXZgA" guid="_D-QboTcBEeSk0K6nPOXZgA" pred="_qc46MDcAEeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Ff7CsTcBEeSk0K6nPOXZgA" guid="_Ff7CsTcBEeSk0K6nPOXZgA" pred="_6JnHMDb_EeSk0K6nPOXZgA"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_vzlCYH_mEd61Af7ua88vmw" name="gerencia_elaboracao" guid="_vzlCYH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_vzlCYX_mEd61Af7ua88vmw" name="gerencia_elaboracao" guid="_vzlCYX_mEd61Af7ua88vmw" presentationName="Liderança de Processo Elaboração" briefDescription="Durante a Elaboração, e futuramente na Construção, o Gerente trabalha para seguir o plano que foi inicialmente traçado. Dessa forma, é possível dizer que ele realiza apenas pequenos ajustes no macro planejamento inicial." superActivities="_FzrR8X_mEd62TNYWta-H0w" breakdownElements="_3GONUGeUEeSgJ8kv7-hjMg _pAgdkGeZEeSgJ8kv7-hjMg _r8z2oGeZEeSgJ8kv7-hjMg _0Hy7EGeZEeSgJ8kv7-hjMg">
+          <presentation xmi:id="-FJaxgRdJFFMdq3r3E2Yr6A" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-FJaxgRdJFFMdq3r3E2Yr6A"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_HQz18H_0Ed61Af7ua88vmw" guid="_HQz18H_0Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_HuNjoH_0Ed61Af7ua88vmw" guid="_HuNjoH_0Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_INTTYH_0Ed61Af7ua88vmw" guid="_INTTYH_0Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_L7qbgH_0Ed61Af7ua88vmw" guid="_L7qbgH_0Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_L7us8H_0Ed61Af7ua88vmw" guid="_L7us8H_0Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_L7zlcH_0Ed61Af7ua88vmw" guid="_L7zlcH_0Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_MTzOsH_0Ed61Af7ua88vmw" guid="_MTzOsH_0Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_PBY2UH_0Ed61Af7ua88vmw" guid="_PBY2UH_0Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_nYi3sIelEd6d1_IKg3-6Ow" guid="_nYi3sIelEd6d1_IKg3-6Ow"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_nYi3sYelEd6d1_IKg3-6Ow" guid="_nYi3sYelEd6d1_IKg3-6Ow"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_nYsosIelEd6d1_IKg3-6Ow" guid="_nYsosIelEd6d1_IKg3-6Ow"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_3GONUGeUEeSgJ8kv7-hjMg" name="New Task Descriptor" guid="_3GONUGeUEeSgJ8kv7-hjMg" presentationName="Planejar Reunião para Equipe" superActivities="_vzlCYX_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_pAgdkGeZEeSgJ8kv7-hjMg" name="New Task Descriptor_2" guid="_pAgdkGeZEeSgJ8kv7-hjMg" presentationName="Executar reunião com equipe" superActivities="_vzlCYX_mEd61Af7ua88vmw" linkToPredecessor="_5nwjsGeZEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_r8z2oGeZEeSgJ8kv7-hjMg" name="New Task Descriptor_3" guid="_r8z2oGeZEeSgJ8kv7-hjMg" presentationName="Desenvolver Plano de Iteração" superActivities="_vzlCYX_mEd61Af7ua88vmw" linkToPredecessor="_7o2RsGeZEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_0Hy7EGeZEeSgJ8kv7-hjMg" name="New Task Descriptor_4" guid="_0Hy7EGeZEeSgJ8kv7-hjMg" presentationName="Apresentar Artefatos ao Cliente" superActivities="_vzlCYX_mEd61Af7ua88vmw" linkToPredecessor="_921zQGeZEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_5nwjsGeZEeSgJ8kv7-hjMg" guid="_5nwjsGeZEeSgJ8kv7-hjMg" pred="_3GONUGeUEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_7o2RsGeZEeSgJ8kv7-hjMg" guid="_7o2RsGeZEeSgJ8kv7-hjMg" pred="_pAgdkGeZEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_921zQGeZEeSgJ8kv7-hjMg" guid="_921zQGeZEeSgJ8kv7-hjMg" pred="_r8z2oGeZEeSgJ8kv7-hjMg"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_FzrR8X_mEd62TNYWta-H0w" name="Elaboração" guid="_FzrR8X_mEd62TNYWta-H0w" presentationName="Elaboração" briefDescription="O propósito da Fase de Elaboração é analisar o domínio do problema, validar uma arquitetura consistente, onde o sistema será desenvolvido, e desenvolver o plano de projeto. Embora o processo sempre tenha que acomodar mudanças, as atividades desta fase asseguram que a arquitetura, requisitos e planos são bastante estáveis, podendo-se então, determinar o custo de maneira previsível e programar a conclusão do desenvolvimento." superActivities="_f7tAMX_lEd62TNYWta-H0w" linkToPredecessor="_MniLYX_mEd62TNYWta-H0w" breakdownElements="_qmPa0X_mEd61Af7ua88vmw _sJ7bIX_mEd61Af7ua88vmw _tzuqgX_mEd61Af7ua88vmw _vzlCYX_mEd61Af7ua88vmw">
+        <presentation xmi:id="-gXSnHoQY6l5yNJWA4kdl9Q" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-gXSnHoQY6l5yNJWA4kdl9Q"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_MniLYX_mEd62TNYWta-H0w" guid="_MniLYX_mEd62TNYWta-H0w" pred="_Ecp0oX_mEd62TNYWta-H0w"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_GsTjEH_mEd62TNYWta-H0w" name="Construção" guid="_GsTjEH_mEd62TNYWta-H0w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_yeMOgH_mEd61Af7ua88vmw" name="requisitos_construcao" guid="_yeMOgH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_yeMOgX_mEd61Af7ua88vmw" name="requisitos_construcao" guid="_yeMOgX_mEd61Af7ua88vmw" presentationName="Requisitos Construção" briefDescription="As atividades da disciplina de Requisitos nesta fase são praticamente as mesmas da fase anterior. Elas diferem apenas na quantidade de casos de uso detalhados. Na fase anterior são detalhados os prováveis casos de uso que podem validar a arquitetura. Já nesta fase, apenas o caso de uso participante da iteração é detalhado." superActivities="_GsTjEX_mEd62TNYWta-H0w" breakdownElements="_1s9bIH_nEd61Af7ua88vmw _1s9bIn_nEd61Af7ua88vmw _1s9bI3_nEd61Af7ua88vmw _1s9bJX_nEd61Af7ua88vmw _1s9bKH_nEd61Af7ua88vmw _1s9bKX_nEd61Af7ua88vmw _1s9bKn_nEd61Af7ua88vmw _1s9bK3_nEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_1s9bIH_nEd61Af7ua88vmw" name="0_detalhar_cdu" guid="_1s9bIH_nEd61Af7ua88vmw" presentationName="Iniciar o Detalhamento dos Casos de Usos" briefDescription="Inicia-se o detalhamento de todos  os casos de uso do sistema." superActivities="_yeMOgX_mEd61Af7ua88vmw" linkToPredecessor="_EqZX4H_1Ed61Af7ua88vmw" mandatoryInput="_1s9bKX_nEd61Af7ua88vmw _1s9bKn_nEd61Af7ua88vmw" output="_1s9bK3_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_napg4Gr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_A1ZGwH-pEd62TNYWta-H0w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_1s9bIn_nEd61Af7ua88vmw" name="4_identificar_mudancas_requisitos" guid="_1s9bIn_nEd61Af7ua88vmw" presentationName="Identificar Mudanças nos Requisitos" briefDescription="Após detalhar o caso de uso, é feita uma revisão nos requisitos, o que pode ocasionar necessidade de alterações nos requisitos." superActivities="_yeMOgX_mEd61Af7ua88vmw" additionallyPerformedBy="_1s9bKH_nEd61Af7ua88vmw" mandatoryInput="_1s9bK3_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_napg4Wr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-wa1OylEC8re2hzFLvBAy6Q" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-wa1OylEC8re2hzFLvBAy6Q"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_Xw4_AHlPEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_1s9bI3_nEd61Af7ua88vmw" name="5_atualizar_diagramas_cdus_classes" guid="_1s9bI3_nEd61Af7ua88vmw" presentationName="Atualizar Diagrama de Casos de Uso e de Classes" briefDescription="Se houver mudanças de requisitos após a atividade anterior, que acarrete a necessidade de surgimento de novo caso de uso, o mesmo é acrescentado ao diagrama geral de casos de uso, isso vale para o digrama de classe do sistema também." superActivities="_yeMOgX_mEd61Af7ua88vmw" mandatoryInput="_1s9bKX_nEd61Af7ua88vmw" output="_1s9bKX_nEd61Af7ua88vmw" performedPrimarilyBy="_1s9bKH_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqH8Gr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-6VX3NiBUObQGuGPSICxmcg" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-6VX3NiBUObQGuGPSICxmcg"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_7aG6MHlPEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_1s9bJX_nEd61Af7ua88vmw" name="10_realizar_analise_e_projeto" guid="_1s9bJX_nEd61Af7ua88vmw" presentationName="Realizar Análise e Projeto" briefDescription="Concluídas todas as atividades desse fluxo, dá-se início à disciplina de análise e projeto." superActivities="_yeMOgX_mEd61Af7ua88vmw" linkToPredecessor="_mI5vAH_1Ed61Af7ua88vmw" mandatoryInput="_1s9bK3_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqH8Wr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-Lo3561dhzFvJ97HyimAHLw" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-Lo3561dhzFvJ97HyimAHLw"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_N5QWEHlQEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_1s9bKH_nEd61Af7ua88vmw" name="analista" guid="_1s9bKH_nEd61Af7ua88vmw" presentationName="Analista" briefDescription="O Analista lidera e coordena a identificação de requisitos e a modelagem de casos de uso, delimitando o sistema e definindo sua funcionalidade, estabelecendo, por exemplo, quais são os atores e casos de uso existentes e como eles interagem." isPlanned="false" superActivities="_yeMOgX_mEd61Af7ua88vmw" modifies="_1s9bKX_nEd61Af7ua88vmw" responsibleFor="_1s9bKn_nEd61Af7ua88vmw _1s9bKX_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqH8mr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naqH82r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_1hmzUH7BEd6MaYaawFYtMQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_1s9bKX_nEd61Af7ua88vmw" name="diagrama_geral_cdus" guid="_1s9bKX_nEd61Af7ua88vmw" presentationName="Diagrama Geral de Casos de Uso (UML)" briefDescription="O Diagrama Geral de Casos de Uso é a representação ilustrada das funcionalidades do sistema e os atores que as executam. Esse diagrama fornece uma visão geral das funcionalidades do sistema que serão detalhadas e implementadas." isPlanned="false" superActivities="_yeMOgX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqH9Gr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naqH9Wr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_GAiGIHucEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53kXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_1s9bKn_nEd61Af7ua88vmw" name="doc_visao" guid="_1s9bKn_nEd61Af7ua88vmw" presentationName="Documento de Visão" briefDescription="O Documento de visão oferece uma visão inicial do sistema. Esse documento deve ter a definição do escopo do sistema, as funcionalidades e restrições do sistema, o diagrama geral de casos de uso e a relação entre os casos de uso e funcionalidades. São informados, também, o cliente e os atores do sistema." isPlanned="false" superActivities="_yeMOgX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqH9mr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naqH92r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <templates href="uma://_PNdygHc4Ed6LBuiIOANIVw#_YUjskHubEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53lnpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_1s9bK3_nEd61Af7ua88vmw" name="especificacao_cdu" guid="_1s9bK3_nEd61Af7ua88vmw" presentationName="Especificação de Caso de Uso" briefDescription="O Documento de Especificação de Caso de Uso fornece um detalhamento completo do caso de uso, que serve como orientação para a sua implementação. Esse detalhamento inclui as pré-condições, pós-condições, os fluxos principais, alternativos e de exceção, além dos diagramas de domínio, de classes de projeto e de interação de objetos. Na especificação são, também, apresentados os atores que executam a funcionalidade do caso de uso. &#xD;&#xA;&#xD;&#xA;" isPlanned="false" superActivities="_yeMOgX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqH-Gr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naqH-Wr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <templates href="uma://_PNdygHc4Ed6LBuiIOANIVw#_c2YR8HubEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bI4FQnpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_EqZX4H_1Ed61Af7ua88vmw" guid="_EqZX4H_1Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_eduzEH_1Ed61Af7ua88vmw" guid="_eduzEH_1Ed61Af7ua88vmw" pred="_1s9bI3_nEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_mI5vAH_1Ed61Af7ua88vmw" guid="_mI5vAH_1Ed61Af7ua88vmw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_z2HDsH_mEd61Af7ua88vmw" name="analise_projeto_construcao" guid="_z2HDsH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_z2HDsX_mEd61Af7ua88vmw" name="analise_projeto_construcao" guid="_z2HDsX_mEd61Af7ua88vmw" presentationName="Análise e Projeto Construção" briefDescription="Os objetivos da disciplina de Análise e Projeto nesta fase são os mesmos da fase anterior." superActivities="_GsTjEX_mEd62TNYWta-H0w" linkToPredecessor="_WPSnUIF8Ed6TxI46WhMwMg" breakdownElements="_4SNmJn_nEd61Af7ua88vmw _4SNmKH_nEd61Af7ua88vmw _4SNmKX_nEd61Af7ua88vmw _4SNmKn_nEd61Af7ua88vmw _4SNmK3_nEd61Af7ua88vmw _4SNmLH_nEd61Af7ua88vmw _G8xYQH_3Ed61Af7ua88vmw _Zpc1YDcEEeSk0K6nPOXZgA _zBvsMDnqEeSQFudhAXKiDQ">
+          <presentation xmi:id="-hlRXK0ZVet6dQJlAvI85Eg" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-hlRXK0ZVet6dQJlAvI85Eg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_4SNmJn_nEd61Af7ua88vmw" name="12_executar_implementacao" guid="_4SNmJn_nEd61Af7ua88vmw" presentationName="Executar Implementação do Projeto" briefDescription="Executa-se a implementação dos casos de uso escolhidos para a SPRINT." superActivities="_z2HDsX_mEd61Af7ua88vmw" linkToPredecessor="_PkYjwH_2Ed61Af7ua88vmw _OsjHYH_3Ed61Af7ua88vmw _6yRCMDnqEeSQFudhAXKiDQ" mandatoryInput="_4SNmK3_nEd61Af7ua88vmw _4SNmKn_nEd61Af7ua88vmw _4SNmKX_nEd61Af7ua88vmw" output="_4SNmLH_nEd61Af7ua88vmw" performedPrimarilyBy="_4SNmKH_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqH-mr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_mjvtAH-qEd62TNYWta-H0w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_4SNmKH_nEd61Af7ua88vmw" name="implementador_" guid="_4SNmKH_nEd61Af7ua88vmw" presentationName="Implementador" briefDescription="O Implementador é responsável por desenvolver e testar componentes de acordo com os padrões  adotados para o projeto, para fins de integração com subsistemas maiores. " isPlanned="false" superActivities="_z2HDsX_mEd61Af7ua88vmw" modifies="_4SNmLH_nEd61Af7ua88vmw" responsibleFor="_4SNmLH_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqH-2r4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naqH_Gr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-EKFLaMNJdXwRS_Cr9HhMyQ" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-EKFLaMNJdXwRS_Cr9HhMyQ"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_3b8ZEH7BEd6MaYaawFYtMQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_4SNmKX_nEd61Af7ua88vmw" name="especificacao_cdu" guid="_4SNmKX_nEd61Af7ua88vmw" presentationName="Especificação de Caso de Uso" briefDescription="O Documento de Especificação de Caso de Uso fornece um detalhamento completo do caso de uso, que serve como orientação para a sua implementação. Esse detalhamento inclui as pré-condições, pós-condições, os fluxos principais, alternativos e de exceção, além dos diagramas de domínio, de classes de projeto e de interação de objetos. Na especificação são, também, apresentados os atores que executam a funcionalidade do caso de uso. &#xD;&#xA;&#xD;&#xA;" isPlanned="false" superActivities="_z2HDsX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqH_Wr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naqH_mr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <templates href="uma://_PNdygHc4Ed6LBuiIOANIVw#_c2YR8HubEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bI4FQnpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_4SNmKn_nEd61Af7ua88vmw" name="diagrama_interacao" guid="_4SNmKn_nEd61Af7ua88vmw" presentationName="Diagrama de Interação de Objetos (UML) para o (s) Caso (s) de Uso (s) Implementado (s)" briefDescription="O Diagrama de Interação de Objetos ilustra as interações entre os objetos em uma determinada funcionalidade. Ele é imprescindível para a compreensão dessas interações e deve estar anexado ao Dumento de Especifcação de Caso de Uso do caso de uso ao quel se refere." isPlanned="false" superActivities="_z2HDsX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqH_2r4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naqIAGr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_66YwwHueEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bI4FQHpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_4SNmK3_nEd61Af7ua88vmw" name="diagrama_de_classes" guid="_4SNmK3_nEd61Af7ua88vmw" presentationName="Diagrama de Classes de Projeto (UML)" briefDescription="O Diagrama de Classes de Projeto é a representação ilustrada das classes que serão implementadas no projeto, com seus atributos, relacionamentos e operações." isPlanned="false" superActivities="_z2HDsX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqIAWr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naqIAmr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_Zi8gYHudEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bIu7UXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_4SNmLH_nEd61Af7ua88vmw" name="codigos_fontes" guid="_4SNmLH_nEd61Af7ua88vmw" presentationName="Códigos Fontes" briefDescription="Os códigos Fontes são a codificação dos casos de uso implementados em uma linguagem de programação específica. O código fonte do que foi implementado é disponibilizado no repositório de códigos para acesso de todos os participantes do projeto." isPlanned="false" superActivities="_z2HDsX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqIA2r4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_naqIBGr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bIu7UHpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_LH044H_2Ed61Af7ua88vmw" guid="_LH044H_2Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_LhVlEH_2Ed61Af7ua88vmw" guid="_LhVlEH_2Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_MC5aAH_2Ed61Af7ua88vmw" guid="_MC5aAH_2Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_OnSpYH_2Ed61Af7ua88vmw" guid="_OnSpYH_2Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_OnXh4H_2Ed61Af7ua88vmw" guid="_OnXh4H_2Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_OncaYH_2Ed61Af7ua88vmw" guid="_OncaYH_2Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_PFSM8H_2Ed61Af7ua88vmw" guid="_PFSM8H_2Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_PkYjwH_2Ed61Af7ua88vmw" guid="_PkYjwH_2Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_G8xYQH_3Ed61Af7ua88vmw" name="7_elaborar_diagrama_de_interacao" guid="_G8xYQH_3Ed61Af7ua88vmw" presentationName="Elaborar Diagrama de Interação de Objetos" briefDescription="Após identificados os conceitos e operações do Caso de Uso selecionado, procede-se à elaboração do diagrama de interação de objetos do mesmo." superActivities="_z2HDsX_mEd61Af7ua88vmw" linkToPredecessor="_NsweUH_3Ed61Af7ua88vmw _Ns3MAH_3Ed61Af7ua88vmw _Ns-gwH_3Ed61Af7ua88vmw _rDGBwDcEEeSk0K6nPOXZgA" mandatoryInput="_4SNmKX_nEd61Af7ua88vmw" output="_4SNmKn_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_naqvAGr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-jqkEI_OAb1iLFgSuIkMZ4A" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-jqkEI_OAb1iLFgSuIkMZ4A"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_fLX-IHlQEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_NsweUH_3Ed61Af7ua88vmw" guid="_NsweUH_3Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Ns3MAH_3Ed61Af7ua88vmw" guid="_Ns3MAH_3Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_Ns-gwH_3Ed61Af7ua88vmw" guid="_Ns-gwH_3Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_OLfowH_3Ed61Af7ua88vmw" guid="_OLfowH_3Ed61Af7ua88vmw" pred="_G8xYQH_3Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_OsjHYH_3Ed61Af7ua88vmw" guid="_OsjHYH_3Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_WPSnUIF8Ed6TxI46WhMwMg" guid="_WPSnUIF8Ed6TxI46WhMwMg" pred="_yeMOgX_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Zpc1YDcEEeSk0K6nPOXZgA" name="New Task Descriptor" guid="_Zpc1YDcEEeSk0K6nPOXZgA" presentationName="Escolher caso de uso para ser implementado na iteração" superActivities="_z2HDsX_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_rDGBwDcEEeSk0K6nPOXZgA" guid="_rDGBwDcEEeSk0K6nPOXZgA" pred="_Zpc1YDcEEeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_zBvsMDnqEeSQFudhAXKiDQ" name="New Task Descriptor_2" guid="_zBvsMDnqEeSQFudhAXKiDQ" presentationName="Atualizar Diagrama de Casos de Uso e de Classes" superActivities="_z2HDsX_mEd61Af7ua88vmw" linkToPredecessor="_4qF0wDnqEeSQFudhAXKiDQ"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_4qF0wDnqEeSQFudhAXKiDQ" guid="_4qF0wDnqEeSQFudhAXKiDQ" pred="_G8xYQH_3Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_6yRCMDnqEeSQFudhAXKiDQ" guid="_6yRCMDnqEeSQFudhAXKiDQ" pred="_zBvsMDnqEeSQFudhAXKiDQ"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_2QL5cH_mEd61Af7ua88vmw" name="impl_testes_construcao" guid="_2QL5cH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_2QL5cX_mEd61Af7ua88vmw" name="impl_testes_construcao" guid="_2QL5cX_mEd61Af7ua88vmw" presentationName="Implementação  Construção" briefDescription="Com a arquitetura do sistema validada na fase de Elaboração, esta disciplina agora tem como objetivo realizar a codificação, ou seja, a implementação e o teste dos componentes pertencentes ao caso de uso, bem como sua integração com a parte do sistema já desenvolvida." superActivities="_GsTjEX_mEd62TNYWta-H0w" linkToPredecessor="_WsDb0YF8Ed6TxI46WhMwMg" breakdownElements="_IutWEDcFEeSk0K6nPOXZgA _Jd7zkTcFEeSk0K6nPOXZgA _OjJZ4DcFEeSk0K6nPOXZgA _WzrssTcFEeSk0K6nPOXZgA">
+          <presentation xmi:id="-FBhD0Jn5O2s6cnFs8v7UCA" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-FBhD0Jn5O2s6cnFs8v7UCA"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_V7faUH_3Ed61Af7ua88vmw" guid="_V7faUH_3Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_crLlcH_3Ed61Af7ua88vmw" guid="_crLlcH_3Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_dHP2YH_3Ed61Af7ua88vmw" guid="_dHP2YH_3Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_eAhnwH_3Ed61Af7ua88vmw" guid="_eAhnwH_3Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_PpHA0H_4Ed61Af7ua88vmw" guid="_PpHA0H_4Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_WsDb0YF8Ed6TxI46WhMwMg" guid="_WsDb0YF8Ed6TxI46WhMwMg" pred="_z2HDsX_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_IutWEDcFEeSk0K6nPOXZgA" name="New Task Descriptor" guid="_IutWEDcFEeSk0K6nPOXZgA" presentationName="Escolher caso de uso para ser implementado na iteração" superActivities="_2QL5cX_mEd61Af7ua88vmw" linkToPredecessor="_dBDN4TcFEeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Jd7zkTcFEeSk0K6nPOXZgA" name="New Task Descriptor_2" guid="_Jd7zkTcFEeSk0K6nPOXZgA" presentationName="Realizar a Disciplina de Implementação e Teste para o Caso de Uso Selecionado da SPRINT" superActivities="_2QL5cX_mEd61Af7ua88vmw" linkToPredecessor="_euBGADcFEeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_OjJZ4DcFEeSk0K6nPOXZgA" name="New Task Descriptor_3" guid="_OjJZ4DcFEeSk0K6nPOXZgA" presentationName="Executar Implementação do Projeto" superActivities="_2QL5cX_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_WzrssTcFEeSk0K6nPOXZgA" name="New Task Descriptor_4" guid="_WzrssTcFEeSk0K6nPOXZgA" presentationName="Revisar Documento de Visão, Arquitetura e Especificação de Casos de Uso" superActivities="_2QL5cX_mEd61Af7ua88vmw" linkToPredecessor="_hHKHoTcFEeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_dBDN4TcFEeSk0K6nPOXZgA" guid="_dBDN4TcFEeSk0K6nPOXZgA" pred="_OjJZ4DcFEeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_euBGADcFEeSk0K6nPOXZgA" guid="_euBGADcFEeSk0K6nPOXZgA" pred="_IutWEDcFEeSk0K6nPOXZgA"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_hHKHoTcFEeSk0K6nPOXZgA" guid="_hHKHoTcFEeSk0K6nPOXZgA" pred="_Jd7zkTcFEeSk0K6nPOXZgA"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_3_WxAH_mEd61Af7ua88vmw" name="gerencia_construcao" guid="_3_WxAH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_3_WxAX_mEd61Af7ua88vmw" name="gerencia_construcao" guid="_3_WxAX_mEd61Af7ua88vmw" presentationName="Liderança de Processo Construção" briefDescription="Durante a Construção, o Gerente trabalha pra manter o desenvolvimento do projeto dentro de uma margem aceitável do que foi planejado. Essa fase é um ciclo de entregas de protótipos que, quando finalizada, apresenta um produto quase maduro para ser entregue." superActivities="_GsTjEX_mEd62TNYWta-H0w" breakdownElements="_7mzjZ3_nEd61Af7ua88vmw _7mzjaX_nEd61Af7ua88vmw _7mzjb3_nEd61Af7ua88vmw _7mzjcX_nEd61Af7ua88vmw _Rm_kAGeaEeSgJ8kv7-hjMg _Xp_oQGeaEeSgJ8kv7-hjMg _b0vxcWeaEeSgJ8kv7-hjMg">
+          <presentation xmi:id="-VJUZkNMoECgwfqA7cfgPew" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-VJUZkNMoECgwfqA7cfgPew"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_7mzjZ3_nEd61Af7ua88vmw" name="15_desenvolver_plan_iteracao" guid="_7mzjZ3_nEd61Af7ua88vmw" presentationName="Desenvolver Plano de Iteração " briefDescription="A partir das iterações definidas no Plano de Desenvolvimento de Software, elabora-se o Plano de Iteração para a próxima iteração do desenvolvimento." superActivities="_3_WxAX_mEd61Af7ua88vmw" linkToPredecessor="_92xLIH_4Ed61Af7ua88vmw _lavbUGeaEeSgJ8kv7-hjMg" mandatoryInput="_7mzjb3_nEd61Af7ua88vmw _7mzjcX_nEd61Af7ua88vmw" performedPrimarilyBy="_7mzjaX_nEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWEGr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-lUGvrkI9zpPx_MNpXewP2A" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-lUGvrkI9zpPx_MNpXewP2A"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_ucgRrn-tEd62TNYWta-H0w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_7mzjaX_nEd61Af7ua88vmw" name="lider" guid="_7mzjaX_nEd61Af7ua88vmw" presentationName="Lider de Projetos" briefDescription="O Lider é o papel que aloca recursos, ajusta as prioridades, coordena interações com clientes e usuários e busca manter a equipe concentrada em atingir os objetivos do projeto." isPlanned="false" superActivities="_3_WxAX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWEWr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_narWEmr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-u8ZniCNwri3D99lzkQ_YQw" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-u8ZniCNwri3D99lzkQ_YQw"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_OlqUAnmbEd6IMtncZulwRw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_7mzjb3_nEd61Af7ua88vmw" name="diagrama_geral_cdus" guid="_7mzjb3_nEd61Af7ua88vmw" presentationName="Diagrama Geral de Casos de Uso (UML)" briefDescription="O Diagrama Geral de Casos de Uso é a representação ilustrada das funcionalidades do sistema e os atores que as executam. Esse diagrama fornece uma visão geral das funcionalidades do sistema que serão detalhadas e implementadas." isPlanned="false" superActivities="_3_WxAX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWE2r4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_narWFGr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_GAiGIHucEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53kXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_7mzjcX_nEd61Af7ua88vmw" name="doc_visao" guid="_7mzjcX_nEd61Af7ua88vmw" presentationName="Documento de Visão" briefDescription="O Documento de visão oferece uma visão inicial do sistema. Esse documento deve ter a definição do escopo do sistema, as funcionalidades e restrições do sistema, o diagrama geral de casos de uso e a relação entre os casos de uso e funcionalidades. São informados, também, o cliente e os atores do sistema." isPlanned="false" superActivities="_3_WxAX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWFWr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_narWFmr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <templates href="uma://_PNdygHc4Ed6LBuiIOANIVw#_YUjskHubEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53lnpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_9DvywH_4Ed61Af7ua88vmw" guid="_9DvywH_4Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_9c5SkH_4Ed61Af7ua88vmw" guid="_9c5SkH_4Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_92xLIH_4Ed61Af7ua88vmw" guid="_92xLIH_4Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_-S5GcH_4Ed61Af7ua88vmw" guid="_-S5GcH_4Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_-wH1AH_4Ed61Af7ua88vmw" guid="_-wH1AH_4Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_FWBYEIemEd6d1_IKg3-6Ow" guid="_FWBYEIemEd6d1_IKg3-6Ow"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Rm_kAGeaEeSgJ8kv7-hjMg" name="New Task Descriptor" guid="_Rm_kAGeaEeSgJ8kv7-hjMg" presentationName="Executar reunião com equipe" superActivities="_3_WxAX_mEd61Af7ua88vmw" linkToPredecessor="_hQ1msGeaEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Xp_oQGeaEeSgJ8kv7-hjMg" name="New Task Descriptor_2" guid="_Xp_oQGeaEeSgJ8kv7-hjMg" presentationName="Planejar reuniões para equipe" superActivities="_3_WxAX_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_b0vxcWeaEeSgJ8kv7-hjMg" name="New Task Descriptor_3" guid="_b0vxcWeaEeSgJ8kv7-hjMg" presentationName="Desenvolver Plano de Iteração" superActivities="_3_WxAX_mEd61Af7ua88vmw" linkToPredecessor="_je4LkGeaEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_hQ1msGeaEeSgJ8kv7-hjMg" guid="_hQ1msGeaEeSgJ8kv7-hjMg" pred="_Xp_oQGeaEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_je4LkGeaEeSgJ8kv7-hjMg" guid="_je4LkGeaEeSgJ8kv7-hjMg" pred="_Rm_kAGeaEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_lavbUGeaEeSgJ8kv7-hjMg" guid="_lavbUGeaEeSgJ8kv7-hjMg" pred="_b0vxcWeaEeSgJ8kv7-hjMg"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_GsTjEX_mEd62TNYWta-H0w" name="Construção" guid="_GsTjEX_mEd62TNYWta-H0w" presentationName="Construção" briefDescription="Durante a fase de construção, todos os componentes e características restantes da aplicação são desenvolvidos, testados e integrados ao produto. A fase de construção é, de certo modo,um processo industrial, no qual é enfocado o gerenciamento de recursos, prazos e qualidade." superActivities="_f7tAMX_lEd62TNYWta-H0w" linkToPredecessor="_NBduUX_mEd62TNYWta-H0w" breakdownElements="_yeMOgX_mEd61Af7ua88vmw _z2HDsX_mEd61Af7ua88vmw _2QL5cX_mEd61Af7ua88vmw _3_WxAX_mEd61Af7ua88vmw">
+        <presentation xmi:id="-npriAM4Qa6D1ITSBIDDuDg" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-npriAM4Qa6D1ITSBIDDuDg"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_NBduUX_mEd62TNYWta-H0w" guid="_NBduUX_mEd62TNYWta-H0w" pred="_FzrR8X_mEd62TNYWta-H0w"/>
+    </childPackages>
+    <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_IG540H_mEd62TNYWta-H0w" name="Validação" guid="_IG540H_mEd62TNYWta-H0w">
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_6TeIsH_mEd61Af7ua88vmw" name="requisitos_validacao" guid="_6TeIsH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_6TeIsX_mEd61Af7ua88vmw" name="requisitos_validacao" guid="_6TeIsX_mEd61Af7ua88vmw" presentationName="Requisitos Validação" briefDescription="A disciplina de requisitos na fase de validação é bastante simples. Ela será executada apenas se novas funcionalidades tiverem sido adicionadas ao sistema." superActivities="_IG540X_mEd62TNYWta-H0w" breakdownElements="_5pfAsDgzEeSw2dACrKM1QA _FKPHETg0EeSw2dACrKM1QA">
+          <presentation xmi:id="-vHicr6FSF0-zsEA3-te3uw" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-vHicr6FSF0-zsEA3-te3uw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_5pfAsDgzEeSw2dACrKM1QA" name="New Task Descriptor" guid="_5pfAsDgzEeSw2dACrKM1QA" presentationName="Realizar Analise de Evolução do Projeto" superActivities="_6TeIsX_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_FKPHETg0EeSw2dACrKM1QA" name="New Task Descriptor_2" guid="_FKPHETg0EeSw2dACrKM1QA" presentationName="Realizara Disciplina de Análise e Projeto da Fase de Contrução" superActivities="_6TeIsX_mEd61Af7ua88vmw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_89CzAH_mEd61Af7ua88vmw" name="impl_testes_validacao" guid="_89CzAH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_89MkAH_mEd61Af7ua88vmw" name="impl_testes_validacao" guid="_89MkAH_mEd61Af7ua88vmw" presentationName="Implementação Validação" briefDescription="Nesta fase, o foco principal da disciplina de Implementação é realizar os testes do produto em preparação para release, bem como ajustes pequenos com base no feedback do cliente. " superActivities="_IG540X_mEd62TNYWta-H0w" breakdownElements="_EyzY4H_oEd61Af7ua88vmw _EyzY4X_oEd61Af7ua88vmw _EyzY4n_oEd61Af7ua88vmw _EyzY43_oEd61Af7ua88vmw _EyzY5H_oEd61Af7ua88vmw _EyzY5X_oEd61Af7ua88vmw _EyzY6n_oEd61Af7ua88vmw _EyzY7X_oEd61Af7ua88vmw _EyzY73_oEd61Af7ua88vmw _EyzY8H_oEd61Af7ua88vmw _EyzY8X_oEd61Af7ua88vmw">
+          <presentation xmi:id="-AD5kcSg-Lw5tMYdBviQ3wg" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-AD5kcSg-Lw5tMYdBviQ3wg"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EyzY4H_oEd61Af7ua88vmw" name="1_planejar_testes" guid="_EyzY4H_oEd61Af7ua88vmw" presentationName="Planejar Testes em Ambiente de Desenvolvimento" briefDescription="No primeiro momento da disciplina de Implementação e Testes da fase de Validação, são planejados os testes no ambiente de desenvolvimento." superActivities="_89MkAH_mEd61Af7ua88vmw" mandatoryInput="_EyzY7X_oEd61Af7ua88vmw" performedPrimarilyBy="_EyzY6n_oEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWF2r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_SxcEoHleEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EyzY4X_oEd61Af7ua88vmw" name="2_executar_testes" guid="_EyzY4X_oEd61Af7ua88vmw" presentationName="Executar Testes em Build Estável no Ambiente de Desenvolvimento" briefDescription="São executados os testes em ambiente de desenvolvimento." superActivities="_89MkAH_mEd61Af7ua88vmw" linkToPredecessor="_atELkH_6Ed61Af7ua88vmw _1alhoH_7Ed61Af7ua88vmw" output="_EyzY7X_oEd61Af7ua88vmw" performedPrimarilyBy="_EyzY6n_oEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWGGr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_XP1ikHleEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EyzY4n_oEd61Af7ua88vmw" name="3_verificar_necessidade_de_remodelagem" guid="_EyzY4n_oEd61Af7ua88vmw" presentationName="Verificar se Necessita passar por Implementação ou se deve passar por Remodelagem" briefDescription="Caso tenham sido detectados erros no sistema a partir dos testes alfa, executa-se essa atividade." superActivities="_89MkAH_mEd61Af7ua88vmw" mandatoryInput="_EyzY7X_oEd61Af7ua88vmw" performedPrimarilyBy="_EyzY6n_oEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWGWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_dQSCEHleEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EyzY43_oEd61Af7ua88vmw" name="4_implementar_correcoes" guid="_EyzY43_oEd61Af7ua88vmw" presentationName="Implementar Correção de Erros" briefDescription="Executa-se essa atividade após a remodelagem solicitada após os testes alfa. Caso os erros detectados nos testes alfa não identifiquem necessidade de remodelagem, passa-se para essa atividade sem remodelar." superActivities="_89MkAH_mEd61Af7ua88vmw" linkToPredecessor="_6bpnwH_7Ed61Af7ua88vmw" mandatoryInput="_EyzY7X_oEd61Af7ua88vmw" output="_EyzY7X_oEd61Af7ua88vmw" performedPrimarilyBy="_EyzY6n_oEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWGmr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_oDjXYHleEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EyzY5H_oEd61Af7ua88vmw" name="5_iniciar_alteracoes_de_modelagem" guid="_EyzY5H_oEd61Af7ua88vmw" presentationName="Iniciar Alterações de Modelagem em Disciplina de Análise e Projeto" briefDescription="Caso sejam identificadas necessidades de remodelagem após os testes alfa, executa-se essa atividade." superActivities="_89MkAH_mEd61Af7ua88vmw" mandatoryInput="_EyzY73_oEd61Af7ua88vmw _EyzY8H_oEd61Af7ua88vmw _EyzY8X_oEd61Af7ua88vmw" output="_EyzY73_oEd61Af7ua88vmw _EyzY8H_oEd61Af7ua88vmw _EyzY8X_oEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWG2r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_rHgQkHleEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_EyzY5X_oEd61Af7ua88vmw" name="6_executar_build" guid="_EyzY5X_oEd61Af7ua88vmw" presentationName="Executar Builds Necessários e criar um Release" briefDescription="Caso os testes  não detectem erros, executa-se essa atividade." superActivities="_89MkAH_mEd61Af7ua88vmw" mandatoryInput="_EyzY7X_oEd61Af7ua88vmw" output="_EyzY7X_oEd61Af7ua88vmw" performedPrimarilyBy="_EyzY6n_oEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWHGr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_xEhooHleEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_EyzY6n_oEd61Af7ua88vmw" name="implementador_" guid="_EyzY6n_oEd61Af7ua88vmw" presentationName="Implementador" briefDescription="O Implementador é responsável por desenvolver e testar componentes de acordo com os padrões  adotados para o projeto, para fins de integração com subsistemas maiores. " isPlanned="false" superActivities="_89MkAH_mEd61Af7ua88vmw" modifies="_EyzY7X_oEd61Af7ua88vmw" responsibleFor="_EyzY7X_oEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWHWr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_narWHmr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-5KlsvwI3YvQpkqh0McdLKA" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-5KlsvwI3YvQpkqh0McdLKA"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_3b8ZEH7BEd6MaYaawFYtMQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_EyzY7X_oEd61Af7ua88vmw" name="codigos_fontes" guid="_EyzY7X_oEd61Af7ua88vmw" presentationName="Códigos Fontes" briefDescription="Os códigos Fontes são a codificação dos casos de uso implementados em uma linguagem de programação específica. O código fonte do que foi implementado é disponibilizado no repositório de códigos para acesso de todos os participantes do projeto." isPlanned="false" superActivities="_89MkAH_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWH2r4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_narWIGr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bIu7UHpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_EyzY73_oEd61Af7ua88vmw" name="diagrama_de_classes" guid="_EyzY73_oEd61Af7ua88vmw" presentationName="Diagrama de Classes de Projeto (UML)" briefDescription="O Diagrama de Classes de Projeto é a representação ilustrada das classes que serão implementadas no projeto, com seus atributos, relacionamentos e operações." isPlanned="false" superActivities="_89MkAH_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_narWIWr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_narWImr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_Zi8gYHudEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bIu7UXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_EyzY8H_oEd61Af7ua88vmw" name="diagrama_interacao" guid="_EyzY8H_oEd61Af7ua88vmw" presentationName="Diagrama de Interação de Objetos (UML) para o (s) Caso (s) de Uso (s) Implementado (s)" briefDescription="O Diagrama de Interação de Objetos ilustra as interações entre os objetos em uma determinada funcionalidade. Ele é imprescindível para a compreensão dessas interações e deve estar anexado ao Dumento de Especifcação de Caso de Uso do caso de uso ao quel se refere." isPlanned="false" superActivities="_89MkAH_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nar9IGr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nar9IWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_66YwwHueEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bI4FQHpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_EyzY8X_oEd61Af7ua88vmw" name="especificacao_cdu" guid="_EyzY8X_oEd61Af7ua88vmw" presentationName="Especificação de Caso de Uso" briefDescription="O Documento de Especificação de Caso de Uso fornece um detalhamento completo do caso de uso, que serve como orientação para a sua implementação. Esse detalhamento inclui as pré-condições, pós-condições, os fluxos principais, alternativos e de exceção, além dos diagramas de domínio, de classes de projeto e de interação de objetos. Na especificação são, também, apresentados os atores que executam a funcionalidade do caso de uso. &#xD;&#xA;&#xD;&#xA;" isPlanned="false" superActivities="_89MkAH_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nar9Imr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nar9I2r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <templates href="uma://_PNdygHc4Ed6LBuiIOANIVw#_c2YR8HubEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bI4FQnpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_atELkH_6Ed61Af7ua88vmw" guid="_atELkH_6Ed61Af7ua88vmw" pred="_EyzY4H_oEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_19vHcH_6Ed61Af7ua88vmw" guid="_19vHcH_6Ed61Af7ua88vmw" pred="_EyzY5X_oEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_6D8H0H_6Ed61Af7ua88vmw" guid="_6D8H0H_6Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="__XtHgH_6Ed61Af7ua88vmw" guid="__XtHgH_6Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_EGJMkH_7Ed61Af7ua88vmw" guid="_EGJMkH_7Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_1alhoH_7Ed61Af7ua88vmw" guid="_1alhoH_7Ed61Af7ua88vmw" pred="_EyzY43_oEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_6bpnwH_7Ed61Af7ua88vmw" guid="_6bpnwH_7Ed61Af7ua88vmw" pred="_EyzY5H_oEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_J4KP0DdlEeSqVM8HP1RFxg" guid="_J4KP0DdlEeSqVM8HP1RFxg" pred="_EyzY5X_oEd61Af7ua88vmw"/>
+      </childPackages>
+      <childPackages xsi:type="org.eclipse.epf.uma:ProcessPackage" xmi:id="_-uvaIH_mEd61Af7ua88vmw" name="gerencia_validacao" guid="_-uvaIH_mEd61Af7ua88vmw">
+        <processElements xsi:type="org.eclipse.epf.uma:Activity" xmi:id="_-uvaIX_mEd61Af7ua88vmw" name="gerencia_validacao" guid="_-uvaIX_mEd61Af7ua88vmw" presentationName="Liderança de Processo Validação" briefDescription="Durante a fase de validação, a disciplina de Gerência de Processo tem com objetivo entregar o Sistema de uma forma satisfatória, verificando sempre a aceitação do cliente como critério de finalização do projeto. Para isso, os trabalhadores cuidam para que o sistema funcione bem no ambiente onde será executado." superActivities="_IG540X_mEd62TNYWta-H0w" breakdownElements="_Gss5x3_oEd61Af7ua88vmw _Gss5yH_oEd61Af7ua88vmw _Gss5yX_oEd61Af7ua88vmw _Gss5yn_oEd61Af7ua88vmw _Gss5zX_oEd61Af7ua88vmw _Gss5zn_oEd61Af7ua88vmw _Gss5z3_oEd61Af7ua88vmw _Gss50X_oEd61Af7ua88vmw _Gss51n_oEd61Af7ua88vmw _Gss523_oEd61Af7ua88vmw _usiW0WeaEeSgJ8kv7-hjMg _yPsUgGeaEeSgJ8kv7-hjMg">
+          <presentation xmi:id="-tHqol6GncM2nj_DKc1Mtvw" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-tHqol6GncM2nj_DKc1Mtvw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Gss5x3_oEd61Af7ua88vmw" name="15_desenvolver_plan_iteracao" guid="_Gss5x3_oEd61Af7ua88vmw" presentationName="Desenvolver Plano de Iteração " briefDescription="A partir das iterações definidas no Plano de Desenvolvimento de Software, elabora-se o Plano de Iteração para a próxima iteração do desenvolvimento." superActivities="_-uvaIX_mEd61Af7ua88vmw" linkToPredecessor="_OmR4kH_9Ed61Af7ua88vmw _6R0-8GeaEeSgJ8kv7-hjMg" mandatoryInput="_Gss50X_oEd61Af7ua88vmw _Gss51n_oEd61Af7ua88vmw" performedPrimarilyBy="_Gss5yX_oEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nar9JGr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-n-7667fJwi-nLPfwAmfgxg" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-n-7667fJwi-nLPfwAmfgxg"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_ucgRrn-tEd62TNYWta-H0w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_Gss5yH_oEd61Af7ua88vmw" name="26_comemoracao_fim" guid="_Gss5yH_oEd61Af7ua88vmw" presentationName="Realizar Comemoração de Fim de Projeto" briefDescription="Ao final do projeto é realizada uma comemoração com a equipe." superActivities="_-uvaIX_mEd61Af7ua88vmw" linkToPredecessor="_7y8MYGeaEeSgJ8kv7-hjMg" performedPrimarilyBy="_Gss5zX_oEd61Af7ua88vmw _Gss5zn_oEd61Af7ua88vmw _Gss5yX_oEd61Af7ua88vmw _Gss5yn_oEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nar9JWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Task href="uma://_PNdygHc4Ed6LBuiIOANIVw#_STi80HlgEd6Q9KdDavqEGw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_Gss5yX_oEd61Af7ua88vmw" name="lider" guid="_Gss5yX_oEd61Af7ua88vmw" presentationName="Lider de Projetos" briefDescription="O Lider é o papel que aloca recursos, ajusta as prioridades, coordena interações com clientes e usuários e busca manter a equipe concentrada em atingir os objetivos do projeto." isPlanned="false" superActivities="_-uvaIX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nar9Jmr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nar9J2r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-PL7ZINTIRHEatrqLjGRJtQ" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-PL7ZINTIRHEatrqLjGRJtQ"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_OlqUAnmbEd6IMtncZulwRw"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_Gss5yn_oEd61Af7ua88vmw" name="implementador_" guid="_Gss5yn_oEd61Af7ua88vmw" presentationName="Implementador" briefDescription="O Implementador é responsável por desenvolver e testar componentes de acordo com os padrões  adotados para o projeto, para fins de integração com subsistemas maiores. " isPlanned="false" superActivities="_-uvaIX_mEd61Af7ua88vmw" responsibleFor="_Gss5z3_oEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nar9KGr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nar9KWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-TQfRBWsOs0V3WB7uPmRC4g" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-TQfRBWsOs0V3WB7uPmRC4g"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_3b8ZEH7BEd6MaYaawFYtMQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_Gss5zX_oEd61Af7ua88vmw" name="analista" guid="_Gss5zX_oEd61Af7ua88vmw" presentationName="Analista" briefDescription="O Analista lidera e coordena a identificação de requisitos e a modelagem de casos de uso, delimitando o sistema e definindo sua funcionalidade, estabelecendo, por exemplo, quais são os atores e casos de uso existentes e como eles interagem." isPlanned="false" superActivities="_-uvaIX_mEd61Af7ua88vmw" responsibleFor="_Gss51n_oEd61Af7ua88vmw _Gss50X_oEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nar9Kmr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nar9K2r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_1hmzUH7BEd6MaYaawFYtMQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:RoleDescriptor" xmi:id="_Gss5zn_oEd61Af7ua88vmw" name="designer" guid="_Gss5zn_oEd61Af7ua88vmw" presentationName="Designer" briefDescription="O Designer é o papel responsável por definir a interface gráfica do sistema, de acordo com as necessidades e preferências do usuário, buscando seguir princípios fundamentais de funcionalidade e usabilidade." isPlanned="false" superActivities="_-uvaIX_mEd61Af7ua88vmw" responsibleFor="_Gss523_oEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nar9LGr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nar9LWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <presentation xmi:id="-nn52j2-H_RE9D2RTrXmc2w" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-nn52j2-H_RE9D2RTrXmc2w"/>
+          <Role href="uma://_PNdygHc4Ed6LBuiIOANIVw#_9f0nEH7BEd6MaYaawFYtMQ"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Gss5z3_oEd61Af7ua88vmw" name="codigos_fontes" guid="_Gss5z3_oEd61Af7ua88vmw" presentationName="Códigos Fontes" briefDescription="Os códigos Fontes são a codificação dos casos de uso implementados em uma linguagem de programação específica. O código fonte do que foi implementado é disponibilizado no repositório de códigos para acesso de todos os participantes do projeto." isPlanned="false" superActivities="_-uvaIX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nar9Lmr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nar9L2r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_bIu7UHpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Gss50X_oEd61Af7ua88vmw" name="diagrama_geral_cdus" guid="_Gss50X_oEd61Af7ua88vmw" presentationName="Diagrama Geral de Casos de Uso (UML)" briefDescription="O Diagrama Geral de Casos de Uso é a representação ilustrada das funcionalidades do sistema e os atores que as executam. Esse diagrama fornece uma visão geral das funcionalidades do sistema que serão detalhadas e implementadas." isPlanned="false" superActivities="_-uvaIX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nar9MGr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nar9MWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <examples href="uma://_PNdygHc4Ed6LBuiIOANIVw#_GAiGIHucEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53kXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Gss51n_oEd61Af7ua88vmw" name="doc_visao" guid="_Gss51n_oEd61Af7ua88vmw" presentationName="Documento de Visão" briefDescription="O Documento de visão oferece uma visão inicial do sistema. Esse documento deve ter a definição do escopo do sistema, as funcionalidades e restrições do sistema, o diagrama geral de casos de uso e a relação entre os casos de uso e funcionalidades. São informados, também, o cliente e os atores do sistema." isPlanned="false" superActivities="_-uvaIX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nar9Mmr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nar9M2r4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <templates href="uma://_PNdygHc4Ed6LBuiIOANIVw#_YUjskHubEd64wKJP97lW7A"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53lnpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkProductDescriptor" xmi:id="_Gss523_oEd61Af7ua88vmw" name="prototipo_de_telas" guid="_Gss523_oEd61Af7ua88vmw" presentationName="Protótipos de Telas" briefDescription="Os protótipos de tela consistem em imagens que descrevem a interface  com o usuário do sistema, com o  propósito de fornecer ao cliente uma visão de como ele irá interagir com o sistema." isPlanned="false" superActivities="_-uvaIX_mEd61Af7ua88vmw">
+          <methodElementProperty xmi:id="_nar9NGr4EeS6d_1njT3EqA" name="descriptor_createdByReference" value="true"/>
+          <methodElementProperty xmi:id="_nar9NWr4EeS6d_1njT3EqA" name="me_references" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot; standalone=&quot;no&quot;?>&lt;me_references udtList=&quot;&quot;/>"/>
+          <WorkProduct href="uma://_PNdygHc4Ed6LBuiIOANIVw#_KH53mXpREd6pL8HyHB0u_w"/>
+        </processElements>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_oQykYH_8Ed61Af7ua88vmw" guid="_oQykYH_8Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_pEUTEH_8Ed61Af7ua88vmw" guid="_pEUTEH_8Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_tbIiUH_8Ed61Af7ua88vmw" guid="_tbIiUH_8Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_5i5lYH_8Ed61Af7ua88vmw" guid="_5i5lYH_8Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_OmR4kH_9Ed61Af7ua88vmw" guid="_OmR4kH_9Ed61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_D6QvQIenEd6d1_IKg3-6Ow" guid="_D6QvQIenEd6d1_IKg3-6Ow"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_usiW0WeaEeSgJ8kv7-hjMg" name="New Task Descriptor" guid="_usiW0WeaEeSgJ8kv7-hjMg" presentationName="Planejar Reuniões para equipe" superActivities="_-uvaIX_mEd61Af7ua88vmw"/>
+        <processElements xsi:type="org.eclipse.epf.uma:TaskDescriptor" xmi:id="_yPsUgGeaEeSgJ8kv7-hjMg" name="New Task Descriptor_2" guid="_yPsUgGeaEeSgJ8kv7-hjMg" presentationName="Excutar reunião com equipe" superActivities="_-uvaIX_mEd61Af7ua88vmw" linkToPredecessor="_4XNsYGeaEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_4XNsYGeaEeSgJ8kv7-hjMg" guid="_4XNsYGeaEeSgJ8kv7-hjMg" pred="_usiW0WeaEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_6R0-8GeaEeSgJ8kv7-hjMg" guid="_6R0-8GeaEeSgJ8kv7-hjMg" pred="_yPsUgGeaEeSgJ8kv7-hjMg"/>
+        <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_7y8MYGeaEeSgJ8kv7-hjMg" guid="_7y8MYGeaEeSgJ8kv7-hjMg" pred="_Gss5x3_oEd61Af7ua88vmw"/>
+      </childPackages>
+      <processElements xsi:type="org.eclipse.epf.uma:Phase" xmi:id="_IG540X_mEd62TNYWta-H0w" name="Validação" guid="_IG540X_mEd62TNYWta-H0w" presentationName="Validação" briefDescription="O foco da Fase de Validação é assegurar que o software esteja disponível para seus usuários finais. " superActivities="_f7tAMX_lEd62TNYWta-H0w" linkToPredecessor="_NtuXYX_mEd62TNYWta-H0w" breakdownElements="_6TeIsX_mEd61Af7ua88vmw _89MkAH_mEd61Af7ua88vmw _-uvaIX_mEd61Af7ua88vmw">
+        <presentation xmi:id="-YMQPYY6neBHpwYU03C5yrw" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-YMQPYY6neBHpwYU03C5yrw"/>
+      </processElements>
+      <processElements xsi:type="org.eclipse.epf.uma:WorkOrder" xmi:id="_NtuXYX_mEd62TNYWta-H0w" guid="_NtuXYX_mEd62TNYWta-H0w" pred="_GsTjEX_mEd62TNYWta-H0w"/>
+    </childPackages>
+    <process xsi:type="org.eclipse.epf.uma:DeliveryProcess" xmi:id="_f7tAMX_lEd62TNYWta-H0w" name="PAWEB" guid="_f7tAMX_lEd62TNYWta-H0w" presentationName="Processo Acadêmico Web - PAWEB" briefDescription="O Processo Acadêmico Web- PAWEB- é um processo baseado nas práticas do Processo Unificado e da modelagem ágil para o projeto de Software Web." breakdownElements="_Ecp0oX_mEd62TNYWta-H0w _FzrR8X_mEd62TNYWta-H0w _GsTjEX_mEd62TNYWta-H0w _IG540X_mEd62TNYWta-H0w">
+      <methodElementProperty xmi:id="_nar9Nmr4EeS6d_1njT3EqA" name="process_synFree" value="true"/>
+      <presentation xmi:id="-oFK5rBH75hJXUkoiPEDZBQ" href="uma://-f4fArVL9nU7rTFsM_CaP2Q#-oFK5rBH75hJXUkoiPEDZBQ"/>
+      <defaultContext href="uma://_y62TUKVPEdmMZJIzZ1W7Pw#_1i1qkHc7Ed6LBuiIOANIVw"/>
+      <validContext href="uma://_y62TUKVPEdmMZJIzZ1W7Pw#_1i1qkHc7Ed6LBuiIOANIVw"/>
+    </process>
+  </org.eclipse.epf.uma:ProcessComponent>
+</xmi:XMI>
